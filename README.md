@@ -10,9 +10,14 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 
 # AppleScript Resources
 ### Apple Documents
+- [AppleScript Overview - 2006](https://web.archive.org/web/20220630161718/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf)
+- [AppleScript Language Guide Website](https://web.archive.org/web/20220627082327/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1)
+- [AppleScript Language Guide PDF](https://web.archive.org/web/20220630161504/https://nathangrigg.com/images/2012/AppleScriptLanguageGuide.pdf)
 - [Mac Automation Scripting Guide](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html)
+- [AppleScript Release Notes](https://web.archive.org/web/20211207020852/https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html)
 
 ### Books
+- [AppleScript Programming - Wikibooks (Live Link)](https://en.wikibooks.org/wiki/AppleScript_Programming)
 - [AppleScript: The Definitive Guide (Live Link)](https://learning.oreilly.com/library/view/applescript-the-definitive/0596102119/)
 - [AppleScript Programming for the Absolute Beginner (Paid, Live Link)](https://www.amazon.com/AppleScript-Programming-Absolute-Beginner-Jerry/dp/1598633848)
 - [AppleScript: The Comprehensive Guide to Scripting and Automation on Mac OS X (Paid, Live Link)](https://www.amazon.com/exec/obidos/ASIN/1590596536/bbsapplescrine0e)
@@ -26,6 +31,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 ### Forums/Blogs/Mailing Lists
 - [AppleScript Users Mailing List (Live Link)](https://lists.apple.com/mailman/listinfo/applescript-users)
 - [MACSCRPT@LISTSERV.DARTMOUTH.EDU (Live Link)](https://listserv.dartmouth.edu/scripts/wa.exe?A0=MACSCRPT)
+- [Doug's AppleScripts (Live Link)](https://dougscripts.com/itunes/index.php)
 
 ### Forum/Blog/Mailing List Posts
 - [iTunes AppleScript examples (command examples) - Alvin Alexander](https://web.archive.org/web/20210430224417/https://alvinalexander.com/apple/itunes-applescript-examples-scripts-mac-reference/)
@@ -50,37 +56,47 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [How can I configure a script to launch at startup?](https://web.archive.org/web/20210418034618/https://www.macscripter.net/viewtopic.php?id=24457)
 - [Introduction to AppleScript - Stephen Swift](https://web.archive.org/web/20200929010101/https://www.macobserver.com/tips/applescript/2001/20010618.shtml)
 - [What is a folder action and how do I use one?](https://web.archive.org/web/20210227194634/https://macscripter.net/viewtopic.php?id=24363)
-- []()
-- []()
+- [How to automate your keyboard in Mac OS X with AppleScript - Christopher Kielty](https://web.archive.org/web/20220623174039/https://eastmanreference.com/how-to-automate-your-keyboard-in-mac-os-x-with-applescript)
+- [A simple Numbers workflow - Dr. Dang](https://web.archive.org/web/20220627031837/http://www.leancrew.com/all-this/2014/06/a-simple-numbers-workflow/)
+- [Cleaning out old Reminders - Dr. Dang](https://web.archive.org/web/20180624144228/http://leancrew.com/all-this/2017/04/cleaning-out-old-reminders/)
 
 ### GitHub Code Samples
 - [Make DMGs from folders - pudquick](https://web.archive.org/web/20220616060835/https://gist.github.com/pudquick/470bcd976b104942c9cfd7234a9814fa)
 - [OSX Window Sizing - Tim Sullivan](https://web.archive.org/web/20220616231731/https://github.com/timsully/osx-window-sizing)
 - [Apple-Scripting Repo - Tim Sullivan (Live Link)](https://github.com/timsully/Apple-Scripting)
 - [AppleScript Libraries - Mark Alldritt (Live Link)](https://github.com/alldritt/AppleScriptLibraries)
+- [Set Evernote Mac Font and Text Size using AppleScript.AppleScript - JMichaelTX](https://web.archive.org/web/20220628233422/https://gist.github.com/JMichaelTX/47e869626e9391c6238690aafae27a7b)
 
 ### Other Resource
 - [Resources for AppleScriptObjC - Shane Stanley (Live Link)](https://macosxautomation.com/applescript/apps/index.html)
-
-
+- [Complete list of AppleScript key codes - Christopher Kielty](https://web.archive.org/web/20220623174000/https://eastmanreference.com/complete-list-of-applescript-key-codes)
 
 # Automator Resources
 ### Apple Documents
+- [Automator User Guide for macoS Monterey](https://web.archive.org/web/20220630154812/https://support.apple.com/guide/automator/welcome/mac)
+- [Automator Programming Guide - 2006](https://web.archive.org/web/20220630160456/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleApplications/Conceptual/AutomatorConcepts/AutomatorConcepts.pdf)
+- [Automator Programming Guide - 2007 (Live Link)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.6773&rep=rep1&type=pdf)
 
 ### Books
+- [The Awesome Automation Guide for Mac Users](https://web.archive.org/web/20220525123138/https://www.makeuseof.com/tag/download-the-awesome-automation-guide-for-mac-users/)
 
 ### Videos
 - [Mac OS X Automation Workshop (1 of 2) - Ben Waldie (Live Link)](https://www.youtube.com/watch?v=yzE1UxVl6U4)
+- [Automator and Mac Scripting Tutorials (Playlist) (Live Link)](https://www.youtube.com/playlist?list=PL1bsBsPtN-9TP2MLPDFQ7VN9ycpsj3Y5s)
 
 ### Forums/Blogs/Mailing Lists
 - [Automator Users Mailing List (Live Link)](https://lists.apple.com/mailman/listinfo/automator-users)
+- [Run Automator workflows from AppleScript - tedw](https://web.archive.org/web/20150918234425/http://hints.macworld.com/article.php?story=20081109152027513&mode=print)
 
 ### Forum/Blog/Mailing List Posts
+- [Building an Automator Script To Snap Windows Into Position - macmost](https://web.archive.org/web/20210724192210/https://macmost.com/building-an-automator-script-to-snap-windows-into-position.html)
 
-### GitHub Code Samples
+### GitHub Code Samples / Workflow Repositories
+- [Automats Workflows Files](http://chiselapp.com/user/sti/repository/automats/dir?ci=tip)
+- [automator-workflows - Frances Coronel](https://github.com/FrancesCoronel/automator-workflows)
 
 ### Other Resources
-
+- [A Collection of 70+ Automator Actions, Workflows and Tutorials - MacStories (Live Link)](https://www.macstories.net/roundups/a-collection-of-70-automator-actions-workflows-and-tuts-for-designers-and-bloggers/)
 
 
 # JXA Resources
@@ -88,24 +104,34 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Automating macOS with Javascript for Automation - Josh Parnham (Live Link)](https://github.com/josh-/automating-macOS-with-JXA-presentation)
 
 ### Apple Documents
+- [Mac Scripting Essentials](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html#//apple_ref/doc/uid/TP40016239-CH56-SW1)
+- [JXA Release Notes](https://web.archive.org/web/20220609213837/https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)
 
 ### Books
 
 ### Videos
 - [Automating Complicated Text Inserts - macmost (Live Link)](https://www.youtube.com/watch?v=Hnf1MPc7eSg)
+- [JXA Introduction - Sal Soghoian](https://web.archive.org/web/20220407020151/https://macosxautomation.com/yosemite/mov/JXA-Overview-720P.m4v)
+- [JavaScript for Automation WWDC2014 - Sal Soghoian](https://web.archive.org/web/20220628232836/http://devstreaming-cdn.apple.com/videos/wwdc/2014/306xxjtg7uz13v0/306/306_hd_javascript_for_automation.mov?dl=0)
 
 ### Forums/Blogs/Mailing Lists
 
 ### Forum/Blog/Mailing List Posts
 - [How I Navigate Hundreds of Tabs on Chrome with JXA and Alfred - Renan Cakirerk](https://web.archive.org/web/20190512164554/https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b)
 - [macOS JavaScript for Automation (JXA) Notes - galvanist](https://web.archive.org/web/20220222143509/https://www.galvanist.com/posts/2020-03-28-jxa_notes/)
+- [Automating iTerm with JXA (JavaScript Application Scripting) - Steve Barbera](https://web.archive.org/web/20220628231738/https://stevebarbera.medium.com/automating-iterm-with-jxa-javascript-application-scripting-a62ef3f11283)
+- [Automating Chrome with JXA (Javascript Application Scripting) - Steve Barbera](https://web.archive.org/save/https://stevebarbera.medium.com/automating-chrome-with-jxa-javascript-application-scripting-6f9bc433216a)
 
 ### GitHub Code Samples
 - [chrome-control/chrome.js](https://web.archive.org/web/20220620120256/https://github.com/bit2pixel/chrome-control/blob/master/chrome.js)
 - [JXA Examples (Live Link)](https://github.com/akjems/JXA-Examples)
+- [Copy & Get Selection to Clipboard JXA.js - JMichaelTX](https://web.archive.org/web/20220628233219/https://gist.github.com/JMichaelTX/807c87319ec5efa2f9970be9e4317288)
+- [Transform String on Clipboard to Title Case JXA.js - JMichaelTX](https://web.archive.org/web/20220628233525/https://gist.github.com/JMichaelTX/08a38accadbec4da2736)
 
 ### Other Resources
 - [JavaScript for Automation Cookbook (Live Link)](https://github.com/JXA-Cookbook/JXA-Cookbook)
+- [Scripting with JXA - Christian Kirsch](https://web.archive.org/web/20220628232157/https://bru6.de/jxa/)
+- [JXA Examples - akjems](https://web.archive.org/web/20220628234634/https://jxa-examples.akjems.com/#apple-ref-add-attendee-to-event)
 
 
 
@@ -171,6 +197,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [PyObjC Examples - michielkauwatjoe](https://web.archive.org/web/20220620161940/https://github.com/michielkauwatjoe/PyObjC) - 
 - [PDFsuite - benwiggy (Live Link)](https://github.com/benwiggy/PDFsuite)
 - [Access images from Apple Photos and associated metadata. Uses PyObjC to call native PhotoKit framekwork to access the user's Photos library](https://web.archive.org/web/20200612132339/https://gist.github.com/RhetTbull/41cc85e5bdeb30f761147ce32fba5c94) - PHPhotoLibrary, PHAsset, PHFetchOptions, PHAssetResource
+- [Example Python Alert Dialogs using PyObjC - corbinbs](https://web.archive.org/web/20220629163226/https://gist.github.com/corbinbs/1083908) - NSAlert, NSTimer
 
 ### Other Resources
 - [www.nodebox.net](https://web.archive.org/web/20210306043704/https://www.nodebox.net/code/index.php/PyObjC) - NSSound, NSSpeechSynthesizer, & more
@@ -194,6 +221,9 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Using Shortcuts To Add Data To a Numbers Spreadsheet - macmostvideo (Link Link)](https://www.youtube.com/watch?v=EJedH7pZLg0&list=PL1bsBsPtN-9QzsuW41NdqHHQ4Tuu3Lvrb&index=12)
 - [Creating Shortcuts That Accept Voice Input - macmostvideo (Link Link)](https://www.youtube.com/watch?v=33fwHmQclDI&list=PL1bsBsPtN-9QzsuW41NdqHHQ4Tuu3Lvrb&index=13)
 
+### Podcasts
+
+
 ### Forums/Blogs/Mailing Lists
 
 ### Forum/Blog/Mailing List Posts
@@ -202,11 +232,19 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 
 ### Shortcut Repositories
 - [Sharecuts (Live Link)](https://sharecuts.app)
+- [ShareShortcuts (Live Link)](https://shareshortcuts.com)
+- [ShortcutsGallery (Live Link)](https://shortcutsgallery.com/?_sort=popular)
+- [Shortcut Directory (Live Link)](https://shortcuts.directory/?ref=producthunt)
+- [Showcuts Gallery (Live Link)](https://showcuts.app/share/gallery/)
 - [MacStories Shortcuts Archive (Live Link)](https://www.macstories.net/shortcuts/)
 - [Shortcuts Gallery (Live Link)](https://shortcutsgallery.com)
+- [The Siri Shortcuts Collection- ITE (Live Link)](https://www.itecheverything.com/shortcuts)
+- [Matthew Cassinelli's Shortcuts Library (Live Link)](https://www.matthewcassinelli.com/siri-shortcuts/shortcuts-library/)
+- [Shortcuts for Tesla - Jordan Merrick (Live Link)](https://jordanmerrick.com/shortcuts/shortcuts-for-tesla/)
+- [50+ Coolest Siri Shortcuts for your Mac running macOS Monterey - the8-bit (Live Link)](https://the8-bit.com/top-50-mac-siri-shortcuts/)
 
 ### Other Resources
-
+- [Shortcuts File Format Reference - sebj (Live Link)](https://github.com/sebj/iOS-Shortcuts-Reference)
 
 
 # Other
@@ -225,3 +263,5 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 
 ### Other Languages and Tools
 - [Python for Automation (Live Link)](https://github.com/SKaplanOfficial/PyXA)
+
+
