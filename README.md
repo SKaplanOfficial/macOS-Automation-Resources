@@ -13,26 +13,6 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [📲 Shortcuts Resources](#shortcuts-resources)
 - [🦅 SwiftAutomation Resources](#swiftautomation-resources)
 
-# Alfred Resources
-### 📑 Official Documents
-
-### 📖 Books
-
-### 📺 Videos
-
-### 🎧 Podcasts
-
-### 📬 Forums/Blogs/Mailing Lists
-
-### 📧 Forum/Blog/Mailing List Posts
-
-### 🧑‍💻 Code Samples
-- [macOS Automation Scripts - temochka (Live Link)](https://github.com/temochka/macos-automation)
-
-### ❓ Other Resources
-
-
-
 # AppleScript Resources
 ### 📑 Apple Documents
 - [AppleScript Overview - 2006](https://web.archive.org/web/20220630161718/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf)
@@ -57,7 +37,10 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 ### 📺 Videos
 - [An introduction to Apple Script for Noobs - Tim Sullivan (Live Link)](https://www.youtube.com/watch?v=EAZlFptgEPQ)
 - [Complete overview of AppleScript - JoshsAppleTechHelper (Live Link)](https://www.youtube.com/watch?v=qpnB2rZNnQE)
+- [Apple WWDC 2001 Session 133 - AppleScript Overview](https://www.youtube.com/watch?v=lgQoGvZeD54)
+- [Apple WWDC 2004 Session 723 - A Powerful Combination: AppleScript and QuickTime](https://www.youtube.com/watch?v=HoWy9Tj_ggM)
 - [Mac OS X Automation Workshop (2 of 2) - Ben Waldie (Live Link)](https://www.youtube.com/watch?v=Z6FA3gsN6sA)
+- [Giving your AppleScripts a Face Lift with AppleScriptObjC - Ben Waldie](https://www.youtube.com/watch?v=HE5jFCfkD0w)
 
 ### 📬 Forums/Blogs/Mailing Lists
 - [AppleScript Users Mailing List (Live Link)](https://lists.apple.com/mailman/listinfo/applescript-users)
@@ -174,6 +157,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Official Hammerspoon Mailing List (Live Link)](https://groups.google.com/forum/#!forum/hammerspoon/)
 
 ### 📧 Forum/Blog/Mailing List Posts
+- [Hammerspoon: Handling Windows and Layouts - Evan Travers](https://web.archive.org/web/2/https://evantravers.com/articles/2020/06/12/hammerspoon-handling-windows-and-layouts/)
 
 ### 🧑‍💻 GitHub Code Samples
 
@@ -203,6 +187,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [macOS JavaScript for Automation (JXA) Notes - galvanist](https://web.archive.org/web/20220222143509/https://www.galvanist.com/posts/2020-03-28-jxa_notes/)
 - [Automating iTerm with JXA (JavaScript Application Scripting) - Steve Barbera](https://web.archive.org/web/20220628231738/https://stevebarbera.medium.com/automating-iterm-with-jxa-javascript-application-scripting-a62ef3f11283)
 - [Automating Chrome with JXA (Javascript Application Scripting) - Steve Barbera](https://web.archive.org/save/https://stevebarbera.medium.com/automating-chrome-with-jxa-javascript-application-scripting-6f9bc433216a)
+- [How I Navigate Hundreds of Tabs on Chrome with JXA and Alfred - Renan Cakirerk (Live Link)](https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b)
 
 ### 🧑‍💻 Code Samples
 - [chrome-control/chrome.js](https://web.archive.org/web/20220620120256/https://github.com/bit2pixel/chrome-control/blob/master/chrome.js)
@@ -211,6 +196,10 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Transform String on Clipboard to Title Case JXA.js - JMichaelTX](https://web.archive.org/web/20220628233525/https://gist.github.com/JMichaelTX/08a38accadbec4da2736)
 - [Toggle dock position - Carlos Daniel](https://web.archive.org/web/20220705201437/https://github.com/carlosdnba/mac-automations/blob/master/toggle-dock-position.scpt)
 - [macOS Automation Scripts - temochka (Live Link)](https://github.com/temochka/macos-automation)
+- [JXA - Apple Photos script for organising photos into albums - companje](https://web.archive.org/web/20220805155639/https://gist.github.com/companje/889e0acae02304d944813cff5569b97b)
+- [JXA script for updating the 'date' of mediaItems in Photos - companje](https://web.archive.org/web/20220805160726/https://gist.github.com/companje/f7c15b7bd9fe6f381ccb6a80de59cf45)
+- [JXA DoShellScript - uchcode](https://web.archive.org/web/20220805161616/https://gist.github.com/uchcode/5f5b4190426d72f4dfa46fd26d363d97)
+- [Statusbar App in JXA - uchcode](https://web.archive.org/web/20220805161740/https://gist.github.com/uchcode/96fa4febe6a0386a6348)
 
 ### ❓ Other Resources
 - [JavaScript for Automation Cookbook (Live Link)](https://github.com/JXA-Cookbook/JXA-Cookbook)
@@ -282,6 +271,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [PDFsuite - benwiggy (Live Link)](https://github.com/benwiggy/PDFsuite)
 - [Access images from Apple Photos and associated metadata. Uses PyObjC to call native PhotoKit framekwork to access the user's Photos library](https://web.archive.org/web/20200612132339/https://gist.github.com/RhetTbull/41cc85e5bdeb30f761147ce32fba5c94) - PHPhotoLibrary, PHAsset, PHFetchOptions, PHAssetResource
 - [Example Python Alert Dialogs using PyObjC - corbinbs](https://web.archive.org/web/20220629163226/https://gist.github.com/corbinbs/1083908) - NSAlert, NSTimer
+- [Resize an image using appkit/pyobjc - atr000](https://web.archive.org/web/20220805162848/https://gist.github.com/atr000/211956) - NSImage, NSBitmapImageRep
 
 ### ❓ Other Resources
 - [www.nodebox.net](https://web.archive.org/web/20210306043704/https://www.nodebox.net/code/index.php/PyObjC) - NSSound, NSSpeechSynthesizer, & more
@@ -293,8 +283,11 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 ### 📑 Apple Documents
 - [Shortcuts Users Guide (Live Link)](https://support.apple.com/guide/shortcuts-mac/welcome/mac)
 - [Import Automator workflows into Shortcuts (Live Link)](https://support.apple.com/en-ca/guide/shortcuts-mac/apd02bffbaac/5.0/mac/12.0)
+- [Run a shortcut using a URL scheme on Mac](https://web.archive.org/web/20220402165714/https://support.apple.com/guide/shortcuts-mac/run-a-shortcut-from-a-url-apd624386f42/mac)
+- [Use another app’s URL scheme in Shortcuts on Mac](https://web.archive.org/web/20220603133007/https://support.apple.com/guide/shortcuts-mac/use-another-apps-url-scheme-apd68802640c/mac)
 
 ### 📖 Books
+- [Take Control of Shortcuts, Second Edition - Rosemary Orchard (Paid, Live Link)](https://books.apple.com/us/book/take-control-of-shortcuts-second-edition/id6443235605)
 
 ### 📺 Videos
 - [Hey Siri, Drive My Tesla (How To Use iPhone's New Shortcuts)! - Snazzy Labs (Live Link)](https://www.youtube.com/watch?v=jZc8qMNiONo)
@@ -304,16 +297,31 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Inserting and Replacing Text With Shortcuts - macmostvideo (Link Link)](https://www.youtube.com/watch?v=eKe_Uu6tdIg&list=PL1bsBsPtN-9QzsuW41NdqHHQ4Tuu3Lvrb&index=10)
 - [Using Shortcuts To Add Data To a Numbers Spreadsheet - macmostvideo (Link Link)](https://www.youtube.com/watch?v=EJedH7pZLg0&list=PL1bsBsPtN-9QzsuW41NdqHHQ4Tuu3Lvrb&index=12)
 - [Creating Shortcuts That Accept Voice Input - macmostvideo (Link Link)](https://www.youtube.com/watch?v=33fwHmQclDI&list=PL1bsBsPtN-9QzsuW41NdqHHQ4Tuu3Lvrb&index=13)
+- [Building a Mac Shortcut To Add a Border And Caption To a Photo - macmostvideo (Live Link)](https://www.youtube.com/watch?v=4eKmKLDQsAo)
+- [Intro to Siri Shortcuts Part 1: The New Workflow App - Christopher Lawley](https://www.youtube.com/watch?v=P50x9b7lR5g)
+- [Learn Siri Shortcuts Part 2: See Your Day in One Tap + Alexa Support - Christopher Lawley](https://www.youtube.com/watch?v=kitp6ePnJtg)
+- [Learn Siri Shortcuts Part 3: Magic Variables, Menu Action, and More! - Christopher Lawley](https://www.youtube.com/watch?v=ocrR6Z_B_74)
+- [Siri Shortcuts Tutorial: Good Morning! - HeyTechi](https://www.youtube.com/watch?v=eR9cB7KIx7I)
 
 ### 🎧 Podcasts
-
+- [How to Use Siri Shortcuts in iOS, Part 1: The Basics - AppleVis (Live Link)](https://www.applevis.com/podcasts/how-use-siri-shortcuts-ios-part-1-basics)
+- [How to Use Siri Shortcuts Part 2: The Gallery - AppleVis (Live Link)](https://www.applevis.com/podcasts/how-use-siri-shortcuts-part-2-gallery)
+- [How to Use Siri Shortcuts Part 3: The Library - AppleVis (Live Link)](https://www.applevis.com/comment/90831#comment-90831)
 
 ### 📬 Forums/Blogs/Mailing Lists
+- [The Psalms - David Blue](https://bilge.world)
 
 ### 📧 Forum/Blog/Mailing List Posts
 - [Posting to a Discourse forum from iOS Shortcuts - alldritt](https://web.archive.org/web/20220619174806/https://forum.latenightsw.com/t/posting-to-a-discourse-forum-from-ios-shortcuts/1593)
 - [[Tutorial] Using Dictionaries and Lists - JoeReally](https://web.archive.org/web/20220701092027/https://www.reddit.com/r/shortcuts/comments/9tbyrz/tutorial_using_dictionaries_and_lists/)
 - [Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions - Alex Guyot](https://web.archive.org/web/20220607150745/https://www.macstories.net/tutorials/guide-url-scheme-ios-drafts/#thedraftsurlscheme)
+- [Shortcuts and Focus Modes - Evan Travers](https://web.archive.org/web/20220709024353/https://evantravers.com/articles/2022/01/26/shortcuts-and-focus-modes/)
+- [Running Other Apps' Siri Shortcuts](https://web.archive.org/web/20220727221728/https://swiftrocks.com/running-other-apps-siri-shortcuts-through-deep-links-in-swift)
+- [Creating visually appealing menus - u/keveridge](https://web.archive.org/web/20220805030436/https://www.reddit.com/r/shortcuts/comments/aibvkg/creating_visually_appealing_menus/)
+- [AUTOMATE TASKS ON A SCHEDULE IN IOS WITH THE SHORTCUTS APP - EDTECHCHRIS](https://web.archive.org/web/20220123125646/http://edtechchris.com/2019/11/17/automate-tasks-on-a-schedule-in-ios-with-the-shortcuts-app/)
+- [Regex Cookbook for Shortcuts - Reusable Regex to use in your Shortcuts- u/enteeMcr](https://web.archive.org/web/20220805154027/https://www.reddit.com/r/shortcuts/comments/9zo24n/regex_cookbook_for_shortcuts_reusable_regex_to/)
+- [How to add rows to Google Sheets from a Shortcut - u/senatorforlife](https://web.archive.org/web/20220122014808/https://www.reddit.com/r/shortcuts/comments/bp735g/how_to_add_rows_to_google_sheets_from_a_shortcut/)
+- [iOS 12 Shortcuts for the Beginner - Deborah Armstrong](https://web.archive.org/web/20210802060231/https://www.applevis.com/guides/ios-12-shortcuts-beginner)
 
 ### 🗄 Shortcut Repositories
 - [Sharecuts (Live Link)](https://sharecuts.app)
@@ -330,6 +338,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Bruce's iOS Shortcut Catalog - Bruce Bentley (Live Link)](https://gist.github.com/brucebentley/19d744dc7371309a9ec8028a880a2692)
 - [Siri Shortcuts Collection - Jens Brehmen (Live Link)](https://github.com/jensbrehmen/sirishortcuts)
 - [iOS Shortcuts - Daniel Demby (Live Link)](https://github.com/heliomass/iOSShortcuts)
+- [Siri Shortcut Collection - hanstzou (Live Link)](https://github.com/hanstzou/siri-shortcuts)
 
 ### ❓ Other Resources
 - [Shortcuts File Format Reference - sebj (Live Link)](https://github.com/sebj/iOS-Shortcuts-Reference)
@@ -359,6 +368,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 
 # Other
 ### 📑 Official Documents
+- [About Apple URL Schemes](https://web.archive.org/web/20220613153922/https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html)
 - [PyAutoGui Documentation (Live Link)](https://pyautogui.readthedocs.io/en/latest/)
 
 ### 📖 Books
