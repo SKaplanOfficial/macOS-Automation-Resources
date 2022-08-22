@@ -22,7 +22,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [AppleScript Release Notes](https://web.archive.org/web/20211207020852/https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html)
 
 ### 📖 Books
-- [Applescript for Absolute Starters - Bert Altenburg (Borrow)](https://archive.org/details/ost-computer-science-as4as_e/mode/2up?q=AppleScript)
+- [AppleScript for Absolute Starters - Bert Altenburg (Borrow)](https://archive.org/details/ost-computer-science-as4as_e/mode/2up?q=AppleScript)
 - [AppleScript Programming - Wikibooks (Live Link)](https://en.wikibooks.org/wiki/AppleScript_Programming)
 - [AppleScript: The Definitive Guide (Live Link)](https://learning.oreilly.com/library/view/applescript-the-definitive/0596102119/)
 - [AppleScript Programming for the Absolute Beginner - Jerry Lee Ford Jr. (Paid, Live Link)](https://www.amazon.com/AppleScript-Programming-Absolute-Beginner-Jerry/dp/1598633848)
@@ -33,6 +33,8 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [AppleScript : the missing manual - Adam Goldstein (Borrow)](https://archive.org/details/applescriptmissi0000gold/page/n1/mode/2up?q=AppleScript)
 - [Danny Goodman's AppleScript Handbook (Borrow)](https://archive.org/details/dannygoodmansapp00good/mode/2up?q=AppleScript)
 - [Learn AppleScript - The Most Comprehensive Guide to Scripting and Automation on Mac OS X - Hamish Sanderson & Hanaan Rosenthal](https://web.archive.org/web/20220701035229/https://usermanual.wiki/Document/AppleScriptComprehensiveGuide.1300254404.pdf)
+- [Basics of AppleScript - Nayan Seth](https://web.archive.org/web/20200515233239/http://downloads.techbarrack.com/books/programming/AppleScript/AppleScript.pdf)
+- [APPLESCRIPT BASICS - Jerry Stratton](https://web.archive.org/web/20201029074742/https://www.hoboes.com/NetLife/AppleScript/AppleScript_HTML/)
 
 ### 📺 Videos
 - [An introduction to Apple Script for Noobs - Tim Sullivan (Live Link)](https://www.youtube.com/watch?v=EAZlFptgEPQ)
@@ -42,10 +44,14 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Mac OS X Automation Workshop (2 of 2) - Ben Waldie (Live Link)](https://www.youtube.com/watch?v=Z6FA3gsN6sA)
 - [Giving your AppleScripts a Face Lift with AppleScriptObjC - Ben Waldie](https://www.youtube.com/watch?v=HE5jFCfkD0w)
 
+### 🧑‍🎓 Courses
+- [Tutorials for AppleScript - Nikolay Smorgun (Paid, Live Link)](https://www.udemy.com/share/1021As/)
+
 ### 📬 Forums/Blogs/Mailing Lists
 - [AppleScript Users Mailing List (Live Link)](https://lists.apple.com/mailman/listinfo/applescript-users)
 - [MACSCRPT@LISTSERV.DARTMOUTH.EDU (Live Link)](https://listserv.dartmouth.edu/scripts/wa.exe?A0=MACSCRPT)
 - [Doug's AppleScripts (Live Link)](https://dougscripts.com/itunes/index.php)
+- [The Robservatory (Live Link)](https://robservatory.com/tag/applescript/)
 
 ### 📧 Forum/Blog/Mailing List Posts
 - [iTunes AppleScript examples (command examples) - Alvin Alexander](https://web.archive.org/web/20210430224417/https://alvinalexander.com/apple/itunes-applescript-examples-scripts-mac-reference/)
@@ -73,6 +79,18 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [How to automate your keyboard in Mac OS X with AppleScript - Christopher Kielty](https://web.archive.org/web/20220623174039/https://eastmanreference.com/how-to-automate-your-keyboard-in-mac-os-x-with-applescript)
 - [A simple Numbers workflow - Dr. Dang](https://web.archive.org/web/20220627031837/http://www.leancrew.com/all-this/2014/06/a-simple-numbers-workflow/)
 - [Cleaning out old Reminders - Dr. Dang](https://web.archive.org/web/20180624144228/http://leancrew.com/all-this/2017/04/cleaning-out-old-reminders/)
+- [How to duplicate an iTerm tab using AppleScript - Genba's Tech Thoughts](https://web.archive.org/web/20220625195036/https://genbastechthoughts.wordpress.com/)
+- [APPLESCRIPT CONTROL OF LOGIN ITEMS - sepdek](https://web.archive.org/web/20210823044558/http://georgepavlides.info/applescript-control-login-items/)
+- [Adding and deleting login items using AppleScript - Mac Stuff](https://web.archive.org/web/20170223134729/http://macstuff.beachdogs.org/blog/?p=30)
+- [Viewing or hiding hidden files in the Finder using AppleScript - Mac Stuff](https://web.archive.org/web/20180813233850/http://macstuff.beachdogs.org/blog/?p=293)
+- [Automation for OS X: the JavaScript way - HackMag](https://web.archive.org/web/20220624234058/https://hackmag.com/coding/getting-to-grips-with-javascript-automation-for-os-x/)
+- [Get Started With AppleScript – Basics - Ben Liddle](https://web.archive.org/web/20210729022843/https://shootmachine.co/2021/01/07/get-started-with-applescript/)
+- [Get Started With AppleScript – Scripting Selections - Ben Liddle](https://web.archive.org/web/20210729022753/https://shootmachine.co/2021/01/07/scripting-selections-variants-and-images/)
+- [Get Started With AppleScript – Conditional Processing pt1 - Ben Liddle](https://web.archive.org/web/20220204165902/https://shootmachine.co/2021/01/09/get-started-with-applescript-conditional-processing-pt1/)
+- [How to display the size of an app’s frontmost window - Rob Griffiths](https://web.archive.org/web/20220630060230/https://robservatory.com/how-to-display-the-size-of-an-apps-frontmost-window/)
+- [Show albums a given Photos’ photo has been added to - Rob Griffiths](https://web.archive.org/web/20210507004617/https://robservatory.com/show-albums-a-given-photos-photo-has-been-added-to/)
+- [Assign a photo’s Title field based on its filename in Photos - Rob Griffiths](https://web.archive.org/web/20210124114127/https://robservatory.com/assign-a-photos-title-field-based-on-its-filename-in-photos/)
+- [Search the iTunes Store from anywhere - Rob Griffiths](https://web.archive.org/web/20211017053645/https://robservatory.com/search-the-itunes-store-from-anywhere/)
 
 ### 🧑‍💻 Code Samples
 - [Make DMGs from folders - pudquick](https://web.archive.org/web/20220616060835/https://gist.github.com/pudquick/470bcd976b104942c9cfd7234a9814fa)
@@ -83,10 +101,13 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Convert a Pages document into Keynote - Alex Hokanson](https://web.archive.org/web/20220705200855mp_/https://github.com/ingshtrom/mac-automation/blob/master/pages-to-keynote.applescript)
 - [Set sound output device - alphabt](https://web.archive.org/web/20220705201053/https://github.com/alphabt/macos-automations/blob/master/Set%20Sound%20Output/Set%20Sound%20Output.applescript)
 - [macOS Automation Scripts - temochka (Live Link)](https://github.com/temochka/macos-automation)
+- [AppleScript Repository - Alvin Charity](https://github.com/unforswearing/applescript)
 
 ### ❓ Other Resource
 - [Resources for AppleScriptObjC - Shane Stanley (Live Link)](https://macosxautomation.com/applescript/apps/index.html)
 - [Complete list of AppleScript key codes - Christopher Kielty](https://web.archive.org/web/20220623174000/https://eastmanreference.com/complete-list-of-applescript-key-codes)
+- [AppleScript Error Codes](https://web.archive.org/web/20220813014942/https://whitefiles.org/mac/pgs/v02_aserr.pdf)
+- [AppleScriptObjC: Good News for Objective-C Coders, too - Shane Stanley](https://web.archive.org/web/20220323215921/https://auc.edu.au/media/dw10/dw10-slides-stanley.pdf)
 
 
 
@@ -106,6 +127,12 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 ### 📧 Forum/Blog/Mailing List Posts
 
 ### 🧑‍💻 GitHub Code Samples
+- [A small script to update the currently selected iTunes tracks with various criteria - arkarkark](https://web.archive.org/web/20220816153353/https://gist.github.com/arkarkark/3ccc9697650c6e97778de128e5a73b30)
+- [Sort a given iTunes playlist according to the least played tracks in each album - scoffey](https://web.archive.org/web/20220816153736/https://gist.github.com/scoffey/714923 )
+- [A simple Python script to find and start playing a track on a connected iPod - uniquelogin](https://web.archive.org/web/20220816151103/https://gist.github.com/uniquelogin/4328363)
+- [Make a FaceTime call using Python - shreyansb](https://web.archive.org/web/2/https://gist.github.com/shreyansb/1238027)
+- [Set the desktop wallpaper for each desktop - ghballiet](https://web.archive.org/web/2/https://gist.github.com/ghballiet/2961368)
+- [Extracting polygons from an Illustrator sketch - ptone](https://web.archive.org/web/20220816153014/https://gist.github.com/ptone/3725666)
 
 ### ❓ Other Resources
 - [AppScriptModule - MacPython Wiki](https://web.archive.org/web/20130820013103/http://wiki.python.org/moin/MacPython/AppscriptModule)
@@ -147,8 +174,12 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Hammerspoon API Documentation (Live Link)](https://www.hammerspoon.org/docs/index.html)
 
 ### 📖 Books
+- [Learning Hammerspoon - Diego Zamboni (Paid, Live Link)](https://leanpub.com/learning-hammerspoon/)
+- [Hammerspoon - How to Automate Routine-Tasks - Alfred Schilken](https://web.archive.org/web/20191015125159/http://hammerspoon.tutorial-and-example.com/assets/files/hammerspoon_lua_v5-en-chapter-one.pdf)
 
 ### 📺 Videos
+- [Learning Hammerspoon: Getting Started - Diego Zamboni (Live Link)](https://www.youtube.com/watch?v=G8FtNAK9Re0)
+- [Hands on - macOS Automation with Hammerspoon - Chris Chinchilla (Link Link)](https://www.youtube.com/watch?v=OY26phKZvZI)
 
 ### 🎧 Podcasts
 
@@ -158,10 +189,20 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 
 ### 📧 Forum/Blog/Mailing List Posts
 - [Hammerspoon: Handling Windows and Layouts - Evan Travers](https://web.archive.org/web/2/https://evantravers.com/articles/2020/06/12/hammerspoon-handling-windows-and-layouts/)
+- [Automate everything: Getting started with Hammerspoon and Lua - Jessica Thornsby](https://web.archive.org/web/20210925213710/https://www.chriswrites.com/automate-everything-getting-started-with-hammerspoon-and-lua/)
+- [Getting Started With Hammerspoon - Diego Zamboni](https://web.archive.org/web/20211020105441/https://zzamboni.org/post/getting-started-with-hammerspoon/)
+- [Just Enough Lua to Be Productive in Hammerspoon, Part 1 - Diego Zamboni](https://web.archive.org/web/20211020094547/https://zzamboni.org/post/just-enough-lua-to-be-productive-in-hammerspoon-part-1/)
+- [Just Enough Lua to Be Productive in Hammerspoon, Part 2 - Diego Zamboni](https://web.archive.org/web/20211020092725/https://zzamboni.org/post/just-enough-lua-to-be-productive-in-hammerspoon-part-2/)
+- [Using Spoons in Hammerspoon - Diego Zamboni](https://web.archive.org/web/20220802164148/https://zzamboni.org/post/using-spoons-in-hammerspoon/)
+- [Useful Hammerspoon Tips - Nikhil Marathe](https://web.archive.org/web/20210801031521/https://nikhilism.com/post/2021/useful-hammerspoon-tips/)
+- [Making the Runtime, Funtime with Hammerspoon - Braden Marshall](https://web.archive.org/web/20220801234708/https://blog.theodo.com/2018/03/making-runtime-funtime-hammerspoon/)
+- [Configuring your mac to display the wifi name on the menu bar - Matt Crowder](https://web.archive.org/web/20210614092552/https://dev.to/mcrowder65/configuring-your-mac-to-display-the-wifi-name-on-the-menu-bar-3p8b)
 
 ### 🧑‍💻 GitHub Code Samples
+- [Hammerspoon Window Management - Dennis Ploeger (Live Link)](https://github.com/dploeger/hammerspoon-window-manager)
 
 ### ❓ Other Resources
+- [Hammerspoon - Staggeringly powerful desktop automation - Peter van Dijk (Live Link)](https://archive.fosdem.org/2016/schedule/event/hammerspoon_os_x_automation_with_lua/attachments/slides/1178/export/events/attachments/hammerspoon_os_x_automation_with_lua/slides/1178/van_Dijk_Hammerspoon.pdf)
 
 
 
@@ -188,6 +229,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Automating iTerm with JXA (JavaScript Application Scripting) - Steve Barbera](https://web.archive.org/web/20220628231738/https://stevebarbera.medium.com/automating-iterm-with-jxa-javascript-application-scripting-a62ef3f11283)
 - [Automating Chrome with JXA (Javascript Application Scripting) - Steve Barbera](https://web.archive.org/save/https://stevebarbera.medium.com/automating-chrome-with-jxa-javascript-application-scripting-6f9bc433216a)
 - [How I Navigate Hundreds of Tabs on Chrome with JXA and Alfred - Renan Cakirerk (Live Link)](https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b)
+- [Scripting macOS with Javascript Automation - Mike Bianco](https://web.archive.org/web/20220210112120/http://mikebian.co/scripting-macos-with-javascript-automation/)
 
 ### 🧑‍💻 Code Samples
 - [chrome-control/chrome.js](https://web.archive.org/web/20220620120256/https://github.com/bit2pixel/chrome-control/blob/master/chrome.js)
@@ -200,6 +242,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [JXA script for updating the 'date' of mediaItems in Photos - companje](https://web.archive.org/web/20220805160726/https://gist.github.com/companje/f7c15b7bd9fe6f381ccb6a80de59cf45)
 - [JXA DoShellScript - uchcode](https://web.archive.org/web/20220805161616/https://gist.github.com/uchcode/5f5b4190426d72f4dfa46fd26d363d97)
 - [Statusbar App in JXA - uchcode](https://web.archive.org/web/20220805161740/https://gist.github.com/uchcode/96fa4febe6a0386a6348)
+- [Japanese Examples of JXA](https://web.archive.org/web/20220811215039/http://www.openspc2.org/reibun/JXA/Yosemite/#google_vignette)
 
 ### ❓ Other Resources
 - [JavaScript for Automation Cookbook (Live Link)](https://github.com/JXA-Cookbook/JXA-Cookbook)
@@ -272,6 +315,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Access images from Apple Photos and associated metadata. Uses PyObjC to call native PhotoKit framekwork to access the user's Photos library](https://web.archive.org/web/20200612132339/https://gist.github.com/RhetTbull/41cc85e5bdeb30f761147ce32fba5c94) - PHPhotoLibrary, PHAsset, PHFetchOptions, PHAssetResource
 - [Example Python Alert Dialogs using PyObjC - corbinbs](https://web.archive.org/web/20220629163226/https://gist.github.com/corbinbs/1083908) - NSAlert, NSTimer
 - [Resize an image using appkit/pyobjc - atr000](https://web.archive.org/web/20220805162848/https://gist.github.com/atr000/211956) - NSImage, NSBitmapImageRep
+- [Ejecting USB disks using PyObjC & DiskArbitration - danchr](https://web.archive.org/web/20220815025743/https://gist.github.com/danchr/4d3d9ea7c1470b7313335141b9b7e6e2) - AppHelper, DisArbitration
 
 ### ❓ Other Resources
 - [www.nodebox.net](https://web.archive.org/web/20210306043704/https://www.nodebox.net/code/index.php/PyObjC) - NSSound, NSSpeechSynthesizer, & more
