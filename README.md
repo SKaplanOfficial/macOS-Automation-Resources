@@ -1,6 +1,8 @@
 # macOS Automation Resources
 
-All links in this repository, unless otherwise noted, are to archived pages on the (Wayback Machine)[].
+This is a collection of resources for macOS automation technologies. The resources have been organized by type, but there is otherwise no specific order to them. I recommend using Command+F to find materials relevant to your needs.
+
+All links in this repository, unless otherwise noted, are to archived pages on the (Wayback Machine)[https://web.archive.org].
 
 ## Contents
 - [🍎 AppleScript Resources](#applescript-resources)
@@ -9,7 +11,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [🔨 Hammerspoon Resources](#hammerspoon-resources)
 - [☕️ JXA Resources](#jxa-resources)
 - [🐍 PyObjC Resources](#pyobjc-resources)
-- [⬢ NodeAutomation Resources](#nodeautomation-resources)
+- [⬢ Raycast Resources](#raycast-resources)
 - [📲 Shortcuts Resources](#shortcuts-resources)
 - [🦅 SwiftAutomation Resources](#swiftautomation-resources)
 
@@ -35,6 +37,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Learn AppleScript - The Most Comprehensive Guide to Scripting and Automation on Mac OS X - Hamish Sanderson & Hanaan Rosenthal](https://web.archive.org/web/20220701035229/https://usermanual.wiki/Document/AppleScriptComprehensiveGuide.1300254404.pdf)
 - [Basics of AppleScript - Nayan Seth](https://web.archive.org/web/20200515233239/http://downloads.techbarrack.com/books/programming/AppleScript/AppleScript.pdf)
 - [APPLESCRIPT BASICS - Jerry Stratton](https://web.archive.org/web/20201029074742/https://www.hoboes.com/NetLife/AppleScript/AppleScript_HTML/)
+- [A Beginner's Guide to AppleScript - Guy Hart-Davis](https://web.archive.org/web/20220831000434/https://usermanual.wiki/Document/HartDavisApplescriptBeginnersGuide.282001507/view)
 
 ### 📺 Videos
 - [An introduction to Apple Script for Noobs - Tim Sullivan (Live Link)](https://www.youtube.com/watch?v=EAZlFptgEPQ)
@@ -91,6 +94,12 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Show albums a given Photos’ photo has been added to - Rob Griffiths](https://web.archive.org/web/20210507004617/https://robservatory.com/show-albums-a-given-photos-photo-has-been-added-to/)
 - [Assign a photo’s Title field based on its filename in Photos - Rob Griffiths](https://web.archive.org/web/20210124114127/https://robservatory.com/assign-a-photos-title-field-based-on-its-filename-in-photos/)
 - [Search the iTunes Store from anywhere - Rob Griffiths](https://web.archive.org/web/20211017053645/https://robservatory.com/search-the-itunes-store-from-anywhere/)
+- [Doing Business With Transactions - Bill Cheeseman](https://web.archive.org/web/20210227130044/https://macscripter.net/viewtopic.php?id=24572)
+- [Scripting iTerm with AppleScript - Rob Peck](https://web.archive.org/web/20211022121419/https://www.robpeck.com/2010/05/scripting-iterm-with-applescript/)
+- [Use AppleScript to Automate with iTerm - TJ Fogarty](https://web.archive.org/web/20201027232828/https://tj.ie/use-applescript-to-automate-with-iterm/)
+- [If and If Else: AppleScript Conditional Statements - Josh Johnson](https://web.archive.org/web/20220516164807/https://computers.tutsplus.com/tutorials/if-and-if-else-applescript-conditional-statements--mac-45590)
+- [Save Time and Effort with AppleScript Repeat Loops - Josh Johnson](https://web.archive.org/web/2/https://computers.tutsplus.com/tutorials/save-time-and-effort-with-applescript-repeat-loops--mac-45805?_ga=2.163823610.459543265.1662244739-1825643917.1652742227)
+- [Schedule a Weekly Reminder Email with AppleScript - Josh Johnson](https://web.archive.org/web/20220903224350/https://computers.tutsplus.com/tutorials/schedule-a-weekly-reminder-email-with-applescript--mac-46228?_ga=2.163823610.459543265.1662244739-1825643917.1652742227)
 
 ### 🧑‍💻 Code Samples
 - [Make DMGs from folders - pudquick](https://web.archive.org/web/20220616060835/https://gist.github.com/pudquick/470bcd976b104942c9cfd7234a9814fa)
@@ -108,7 +117,15 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Complete list of AppleScript key codes - Christopher Kielty](https://web.archive.org/web/20220623174000/https://eastmanreference.com/complete-list-of-applescript-key-codes)
 - [AppleScript Error Codes](https://web.archive.org/web/20220813014942/https://whitefiles.org/mac/pgs/v02_aserr.pdf)
 - [AppleScriptObjC: Good News for Objective-C Coders, too - Shane Stanley](https://web.archive.org/web/20220323215921/https://auc.edu.au/media/dw10/dw10-slides-stanley.pdf)
-
+- [iTerm2 AppleScript Documentation](https://web.archive.org/web/20220725071659/https://iterm2.com/documentation-scripting.html)
+- [NotePlan AppleScript Documentation](https://web.archive.org/web/20220830230542/https://help.noteplan.co/article/120-apple-script)
+- [Fantastical Integration With Other Apps Help](https://web.archive.org/web/20220822220536/https://flexibits.com/fantastical/help/integration-with-other-apps)
+- [CardHop Integration With Other Apps Help](https://web.archive.org/web/20211019085932/https://flexibits.com/cardhop/help/integration-with-other-apps)
+- [Scripting with Tyme](https://web.archive.org/web/20211028200942/https://tyme-app.com/en/scripting/)
+- [Controlling Tunnelblick with AppleScript](https://web.archive.org/web/20220328070546/https://tunnelblick.net/cAppleScriptSupport.html)
+- [Creating Scripts for Bike](https://web.archive.org/web/20220517182525/https://bikeguide.hogbaysoftware.com/customizing-bike/creating-scripts)
+- [AppleScript Support in Skim](https://web.archive.org/web/20220822122109/https://sourceforge.net/p/skim-app/wiki/AppleScript/#:~:text=%20AppleScript%20Support%20in%20Skim%20%201%20Saving.,can%20either%20be%20the%20selection%20shown...%20More%20)
+- [AppleScript - Scripting Merlin Project](https://web.archive.org/web/20210115180302/https://www.projectwizards.net/documentation/merlin-project/guides/en/99-MerlinProjectApplescript.pdf)
 
 
 
@@ -197,6 +214,14 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Useful Hammerspoon Tips - Nikhil Marathe](https://web.archive.org/web/20210801031521/https://nikhilism.com/post/2021/useful-hammerspoon-tips/)
 - [Making the Runtime, Funtime with Hammerspoon - Braden Marshall](https://web.archive.org/web/20220801234708/https://blog.theodo.com/2018/03/making-runtime-funtime-hammerspoon/)
 - [Configuring your mac to display the wifi name on the menu bar - Matt Crowder](https://web.archive.org/web/20210614092552/https://dev.to/mcrowder65/configuring-your-mac-to-display-the-wifi-name-on-the-menu-bar-3p8b)
+- [MacOS Power Management with Hammerspoon - Michael Heap](https://web.archive.org/web/20220802160927/https://michaelheap.com/caffiene-and-hammerspoon/)
+- [Powerful Hammerspoon - Teddy Ma](https://web.archive.org/web/20220322003808/https://www.songofcode.com/posts/powerful-hammerspoon/)
+- [Creating A Productive Osx Environment - Hammerspoon - Alexander Reelsen](https://web.archive.org/web/20211021000424/https://spinscale.de/posts/2016-11-08-creating-a-productive-osx-environment-hammerspoon.html)
+- [Bear Notes and Hammerspoon - dcreemer](https://web.archive.org/web/20220324141422/https://www.zachary.com/posts/hammerspoon-and-bear/)
+- [Automatic notes backup on macOS with hammerspoon - Shantanu Goel](https://web.archive.org/web/20220611154234/https://shantanugoel.com/2020/03/20/hammerspoon-backup-joplin-notes-dotfiles-git-macos/)
+- [Create custom macOS menu bar apps using Hammerspoon - Chris Zarate](https://web.archive.org/web/20210415155518/https://chris.zarate.org/create-custom-macos-menu-bar-apps-using-hammerspoon)
+- [MacOS automation and shortcuts with Hammerspoon - Hao Liu](https://web.archive.org/web/20210723163824/https://liuhao.im/english/2017/06/02/macos-automation-and-shortcuts-with-hammerspoon.html#id-create-a-keyboard-macro)
+- [Setup a Mute Indicator Light for Zoom with Hammerspoon - Joël Franusic](https://web.archive.org/web/20220512145642/https://developer.okta.com/blog/2020/10/22/set-up-a-mute-indicator-light-for-zoom-with-hammerspoon)
 
 ### 🧑‍💻 GitHub Code Samples
 - [Hammerspoon Window Management - Dennis Ploeger (Live Link)](https://github.com/dploeger/hammerspoon-window-manager)
@@ -288,6 +313,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Reading URLs from OS X clipboard with PyObjC](https://web.archive.org/web/20200807102115/https://genbastechthoughts.wordpress.com/2012/05/20/reading-urls-from-os-x-clipboard-with-pyobjc/) - NSPasteboard
 - [Screenshot in Cocoa (Python)](https://web.archive.org/web/20201109041204/http://livingcode.blogspot.com/2006/03/screenshot-in-cocoa-python.html) - NSScreen, NSImage, NSWindow, NSView
 - [How to use CGEventCreateKeyboardEvent - StackOverflow](https://web.archive.org/web/20220617003843/https://stackoverflow.com/questions/21396985/how-to-use-cgeventcreatekeyboardevent-in-python-on-mac/21397453) - Quartz
+- [PYOBJC NSSTATUSBAR SAMPLE - Rui Carmo](https://web.archive.org/web/20160801052534/http://taoofmac.com/space/blog/2007/04/22/1745)
 
 ### 🧑‍💻 Code Samples
 - [keynote-export.py by jomkz](https://web.archive.org/web/20220615214032/https://github.com/jomkz/keynote-export/blob/master/keynote-export.py) - ScriptingBridge, Keynote
@@ -316,10 +342,40 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 - [Example Python Alert Dialogs using PyObjC - corbinbs](https://web.archive.org/web/20220629163226/https://gist.github.com/corbinbs/1083908) - NSAlert, NSTimer
 - [Resize an image using appkit/pyobjc - atr000](https://web.archive.org/web/20220805162848/https://gist.github.com/atr000/211956) - NSImage, NSBitmapImageRep
 - [Ejecting USB disks using PyObjC & DiskArbitration - danchr](https://web.archive.org/web/20220815025743/https://gist.github.com/danchr/4d3d9ea7c1470b7313335141b9b7e6e2) - AppHelper, DisArbitration
+- [NSRunLoop in python - Apple Developer Forums](https://web.archive.org/web/20220720194740/https://developer.apple.com/forums/thread/97059) - NSRunLoop, NSSpeechRecognizer
 
 ### ❓ Other Resources
 - [www.nodebox.net](https://web.archive.org/web/20210306043704/https://www.nodebox.net/code/index.php/PyObjC) - NSSound, NSSpeechSynthesizer, & more
 - [Introduction to PyObjC - Bob Ippolito, PyCon 2005](https://web.archive.org/web/20220619171228/https://github.com/etrepum/pyobjc_pycon_2005/blob/master/dist/PyObjC-Intro.pdf)
+
+
+# Raycast Resources
+### 📑 Official Documents
+- [Raycast Manual (Live Link)](https://manual.raycast.com)
+- [Raycast API Documentation (Live Link)](https://developers.raycast.com)
+
+### 📖 Books
+
+### 📺 Videos
+- [Building Raycast extensions with Thomas Paul Mann (CEO & Co-Founder) - Lee Robinson (Live Link)](https://www.youtube.com/watch?v=dgyuttjX1oo)
+- [Build a Raycast Extension with TypeScript & React - Darin Doria (Live Link)](https://www.youtube.com/watch?v=Hmk1c6jIUGY)
+- [Raycast Dev Tip #1 - New Grid API - Raycast (Live Link)](https://www.youtube.com/watch?v=oSZ4ovsWxmU)
+- [Hands on - Creating a Trello extension for Raycast - Chris Chinchilla (Live Link)](https://www.youtube.com/watch?v=zbDJ--w4En8)
+
+### 🎧 Podcasts
+
+
+### 📬 Forums/Blogs/Mailing Lists
+
+### 📧 Forum/Blog/Mailing List Posts
+- [How to build a simple Raycast extension - Patrick Göler von Ravensburg](https://web.archive.org/web/20220915101344/https://www.pgvr.dev/articles/raycast-extension)
+- [Build an Apple Music to Spotify Converter for Raycast - Jonathan Chaffer](https://web.archive.org/web/20220703100731/https://spin.atomicobject.com/2022/06/29/apple-spotify-converter-raycast/)
+
+
+### 🗄 Command Repositories
+- [Unofficial Marketplace for Raycast Script Commands](https://scriptcommands.com)
+
+### ❓ Other Resources
 
 
 
@@ -387,6 +443,7 @@ All links in this repository, unless otherwise noted, are to archived pages on t
 ### ❓ Other Resources
 - [Shortcuts File Format Reference - sebj (Live Link)](https://github.com/sebj/iOS-Shortcuts-Reference)
 - [Running list of apps supporting Siri Shortcuts - Airtable - (Live Link)](https://airtable.com/shrNcsx3n8uUajpsW/tblv8ai4KM1YZ4LgH/viwWKTrvv9iQoPCCa?blocks=hide)
+- [Fantastical App Shortcuts Help](https://web.archive.org/web/20220822220935/https://flexibits.com/fantastical/help/app-shortcuts)
 
 
 
