@@ -22,6 +22,7 @@
 - AppleScript Utility
 - [Aquamacs](https://aquamacs.org)
 - [Arcadiate](http://www.mwilm-conway-ucd.de/Arcadiate/)
+- [Arc](https://arc.net)
 - [aText](https://trankynam.com/atext/)
 - [Atom](https://atom.io)
 - [AudioFinder](https://icedaudio.com/site/)
