@@ -4,6 +4,7 @@
 
 ## A
 - [Acorn](https://flyingmeat.com/acorn/)
+- [Action Shortcuts](https://hazeover.com/actionshortcuts.html)
 - [Adium](https://adium.im)
 - Acrobat Distiller
 - [Adobe Acrobat Reader DC](https://www.adobe.com/acrobat/pdf-reader.html)
@@ -18,13 +19,16 @@
 - [Airmail](https://airmailapp.com)
 - [Alfred 5](https://www.alfredapp.com)
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
+- [Anybar](https://github.com/tonsky/AnyBar)
 - [Anybox](https://anybox.app)
+- [Apple Configurator](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12)
 - AppleScript Utility
 - [Aquamacs](https://aquamacs.org)
 - [Arcadiate](http://www.mwilm-conway-ucd.de/Arcadiate/)
 - [aText](https://trankynam.com/atext/)
 - [Atom](https://atom.io)
 - [AudioFinder](https://icedaudio.com/site/)
+- [Audirvana Studio](https://audirvana.com)
 - Automator
 - [Avogadro](https://avogadro.cc)
 
@@ -32,13 +36,14 @@
 - [Balthisar Tidy](https://www.balthisar.com/software/tidy/)
 - [Bartender 4](https://www.macbartender.com)
 - [BBEdit](http://www.barebones.com/products/bbedit/index.html)
+- [Better Window Manager](http://www.gngrwzrd.com/better-window-manager/)
 - [BetterZip](https://betterzip.com)
 - [BibDesk](https://bibdesk.sourceforge.io)
 - [Bike](https://hogbaysoftware.netlify.app/bike/)
 - [Black Ink 2](https://redsweater.com/blackink/)
 - [BlueGriffon](http://bluegriffon.org/index.html)
 - [Bookends](https://www.sonnysoftware.com/bookends/bookends.html)
-- [Bookmarble](https://onflapp.github.io/blog/pages/BookMarkable.html)
+- [BookMarkable](https://onflapp.github.io/blog/pages/BookMarkable.html)
 - [Brave Browser](https://brave.com/download/)
 - [Broadcasts](https://www.highcaffeinecontent.com)
 - [Bugz](https://www.flyingblackhat.com/bugz/)
@@ -62,9 +67,11 @@
 - [Clozure CL](https://apps.apple.com/us/app/clozure-cl/id489900618?mt=12)
 - [Cocktail](https://www.maintain.se/cocktail/)
 - [Coda 2](https://coda.io)
+- [CodeKit](https://codekitapp.com)
 - [Cog](https://cog.losno.co)
 - [Colloquy](https://github.com/colloquy/colloquy)
 - [Comic Strip Factory](https://www.comicstripfactory.com)
+- [CommandPost](https://commandpost.io)
 - Console
 - Contacts
 - [CoolTerm](https://freeware.the-meiers.org)
@@ -72,6 +79,7 @@
 - [Core Shell](https://codinn.com/shell/)
 - [Core Tunnel](https://codinn.com/tunnel/)
 - [CotEditor](https://coteditor.com)
+- [CryptoEdit](http://www.ecleti.com/osx/cryptoedit/)
 - [Cuprum](https://wortum.com/cuprum/)
 - [Curio](https://www.zengobi.com/curio/)
 - [Curiota](https://www.zengobi.com/curiota/)
@@ -80,10 +88,12 @@
 ## D
 - [Dash](https://kapeli.com/dash)
 - [Daylight](https://www.marketcircle.com)
+- [DeepLists](https://apps.apple.com/us/app/deeplists/id1479406401)
 - [Desktop Goose](https://samperson.itch.io/desktop-goose)
 - [DEVONThink 3](https://www.devontechnologies.com/apps/devonthink)
 - [Dialectic](https://www.macupdate.com/app/mac/27304/dialectic)
 - [Diary++X](http://www5.wind.ne.jp/miko/mac_soft/diary_plusplus_x/index-en.html)
+- [Display Menu](http://displaymenu.milchimgemuesefach.de/index.html)
 - [DNoteIt](https://onflapp.github.io/blog/pages/DNoteIt.html)
 - [Drafts](https://getdrafts.com)
 - [Drill](https://celestialteapot.com/drill/)
@@ -95,12 +105,16 @@
 ## E
 - [EagleFiler](https://c-command.com/eaglefiler/)
 - [Emacs](https://emacsformacosx.com)
+- [Emporter](https://emporter.app)
 - [Endicia](http://mac.endicia.com)
 - [Erbele](https://github.com/abentele/Erbele)
 - [Evolve Tracking](https://www.evolvetracking.com)
+- [ExactScan](https://exactscan.com)
+- [Expresso](https://apps.apple.com/us/app/expresso/id593913958?mt=12)
 - [ExpressVPN](https://www.expressvpn.com/vpn-software/vpn-mac)
 
 ## F
+- [Fake](https://fakeapp.com)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Fastmate](https://github.com/joelekstrom/fastmate/tree/219b216c4ba1c72fe9137bd2ab4ba13ae6985fd2)
 - [Feeder](https://reinventedsoftware.com/feeder/)
@@ -139,6 +153,7 @@
 - [Hachidori](https://malupdaterosx.moe/hachidori/)
 - [Hammerspoon](https://www.hammerspoon.org)
 - [Handbrake](https://handbrake.fr)
+- [Hologram Desktop](https://gethologram.com)
 - [Home Business Card](https://cristallight.com/HomeBusinessCard/)
 - [Hook](https://hookproductivity.com)
 - [HoudahSpot 6](https://www.houdah.com/houdahSpot/)
@@ -152,11 +167,13 @@
 - [iClip](https://iclipapp.com)
 - [Idasen Desk Controller](https://github.com/DWilliames/idasen-controller-mac/tree/957070127605313a84d0891e6803f1767611c8fe)
 - [iDefrag](https://coriolis-systems.com)
+- [IINA+](https://github.com/CarterLi/iina)
 - iMovie
 - [iNMR](https://inmr.net)
 - [Intaglio](https://intaglio.en.softonic.com/mac)
 - [IPNetMonitorX](http://www.sustworks.com/site/prod_ipmx_overview.html)
 - [Iridium](https://iridiumbrowser.de)
+- [Iris](https://staticz.com/iris/)
 - [iTerm](https://iterm2.com)
 - [iText Express](http://www.jp-lightway.com/iText/iTextExpress/pad_file.htm)
 - [iThoughtsX](https://www.toketaware.com/ithoughts-osx)
@@ -164,6 +181,7 @@
 
 ## J
 - [Jirassic](http://www.jirassic.com)
+- [JSON Helper for AppleScript](https://apps.apple.com/us/app/json-helper-for-applescript/id453114608?mt=12)
 - [JSTerminal](https://github.com/steelwheels/JSTerminal)
 - [Jumpshare](https://jumpshare.com/mac)
 - [Just Focus](https://getjustfocus.com)
@@ -173,8 +191,10 @@
 - [Keep It](https://reinventedsoftware.com/keepit/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/)
 - Keynote
+- [kSpectra](http://www.spectraworks.com/web/welcome.html)
 
 ## L
+- [Labeller](https://www.peninsula-group.com/labeller-thermal-labelling-software/)
 - [Labels and Databases](https://cristallight.com/LabelsAndDatabases/)
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html)
 - [Leap](https://ironicsoftware.com/leap/)
@@ -185,6 +205,8 @@
 - [LilyPond](https://lilypond.org/macos-x.html)
 - [LinCastorBrowser](https://onflapp.github.io/blog/pages/LinCastorBrowser.html)
 - [Lingon X](https://www.peterborgapps.com/lingon/)
+- [Location Helper](https://apps.apple.com/us/app/location-helper/id488536386?mt=12)
+- [Lyn](https://www.lynapp.com)
 - [LyX](https://www.lyx.org)
 
 ## M
@@ -198,8 +220,10 @@
 - [MacVim](https://macvim-dev.github.io/macvim/)
 - Mail
 - [Mailplane](https://mailplaneapp.com)
+- [Markster](https://www.sheepsystems.com/products/markster.html)
 - [Manuscripts](https://manuscriptsapp.com)
 - [MarginNote 3](https://www.marginnote.com)
+- [Marked 2](https://marked2app.com)
 - [MarsEdit](https://redsweater.com/marsedit/)
 - [Max](https://sbooth.org/Max/)
 - [Me Focused](https://apps.apple.com/us/app/me-focused/id1546276197?mt=12)
@@ -217,8 +241,10 @@
 - [MindManager](https://www.mindmanager.com/en/pages/mind-mapping-b6/)
 - [MindNode](https://www.mindnode.com)
 - [MindView](https://www.matchware.com/mind-mapping-software)
+- [MiniUsage](https://apps.apple.com/us/app/miniusage/id416285394?mt=12)
 - [MoneyMoney](https://moneymoney-app.com)
 - [Moom](https://manytricks.com/moom/)
+- [MostRecent](https://pixelespressoapps.com/mostrecent/)
 - [MPlayerX](http://mplayerx.org)
 - [MultiMarkdown Composer](https://multimarkdown.com/composer4/)
 - Music
@@ -240,6 +266,7 @@
 - [nvALT](https://brettterpstra.com/projects/nvalt/)
 
 ## O
+- [OCRKit](https://ocrkit.com)
 - [OmniDiskSweeper](https://www.omnigroup.com/more)
 - [OmniFocus](https://www.omnigroup.com/omnifocus)
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle)
@@ -250,9 +277,11 @@
 - [OpenSCAD](https://openscad.org/index.html)
 - [Opera](https://www.opera.com)
 - [Opus Domini](https://apps.apple.com/us/app/opus-domini/id416244215?mt=12)
+- [Orion](https://browser.kagi.com)
 
 ## P
 - Pages
+- [Panorama](https://limitpointstore.com/products/panorama/)
 - [Paper](https://papereditor.app)
 - [Paperless](https://marinersoftware.com/product/paperless/)
 - [Parallels Desktop](https://www.parallels.com/pd/general/)
@@ -263,9 +292,13 @@
 - [pgAdmin](https://www.pgadmin.org)
 - [Phone Amego](http://www.sustworks.com/pa_guide/index.html)
 - Photos
+- [PhotosBlender](https://limitpointstore.com/products/photosblender/)
+- [PhotosCollage](https://limitpointstore.com/products/photoscollage/)
 - [Pixelmator Pro](https://www.pixelmator.com/pro/)
+- [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)
 - [PopClip](https://pilotmoon.com/popclip/)
 - [Postbox](https://www.postbox-inc.com)
+- [Power Manager](https://www.dssw.co.uk/powermanager/)
 - [PowerPhotos](https://fatcatsoftware.com/powerphotos/)
 - Preview
 - [Pro Fit 7](https://www.quansoft.com)
@@ -273,18 +306,27 @@
 - [Puffin Secure Browser](https://www.puffin.com/secure-browser)
 
 ## Q
+- [QLab](https://qlab.app)
+- [QMidi](https://www.mixagesoftware.com)
+- [QR Journal](http://www.joshjacob.com/mac-development/qrjournal.php)
 - [Quickbooks](https://quickbooks.intuit.com/oa/get-quickbooks/)
+- [Quickly](https://apps.apple.com/us/app/quickly/id964195558?mt=12)
 - [Quicksilver](https://qsapp.com)
 - QuickTime
+- [QuickWho](https://www.codebykevin.com/quickwho.html)
 
 ## R
 - [R](https://www.r-project.org)
+- [Radiologik DJ](https://macinmind.com/?area=app&app=radiologik&pg=info)
 - [Radium](http://users.notam02.no/~kjetism/radium/index.php)
+- [Receipts](https://www.receipts-app.com)
 - Reminders
 - [Remote Buddy](https://www.iospirit.com/products/remotebuddy/)
 - [Resolutionator](https://manytricks.com/resolutionator/)
 - [Rest](https://www.macupdate.com/app/mac/50513/rest)
 - [Retrobatch](https://flyingmeat.com/retrobatch/)
+- [Reveal](https://revealapp.com)
+- [Ringer](http://pixelresearchlabs.com/ringer)
 - [RocketFuel](https://github.com/pkrll/RocketFuel/)
 - [RStudio](https://www.rstudio.com)
 - [RUMlogNG](https://dl2rum.de/rumsoft/RUMLog.html)
@@ -292,6 +334,7 @@
 ## S
 - Safari
 - [SatimageOSAX](https://github.com/alldritt/SatimageOSAX)
+- [Scorpion BarCode](https://www.scorpionresearch.com/srl/SBCH_Fea.htm)
 - Script Editor
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [SeaMonkey](https://www.seamonkey-project.org)
@@ -303,6 +346,8 @@
 - [Shukofukurou](https://malupdaterosx.moe/shukofukurou/)
 - [Sidekick](https://www.meetsidekick.com/download/)
 - [SideNotes](https://www.apptorium.com/sidenotes)
+- [SignalScope Pro](https://www.faberacoustical.com/apps/mac/signalscope_pro/)
+- [SignalSuite](https://www.faberacoustical.com/apps/mac/signalsuite/)
 - [Simple Comic](http://dancingtortoise.com/simplecomic/)
 - Simulator
 - [SiteSucker Pro](https://ricks-apps.com/osx/sitesucker/index.html)
@@ -312,12 +357,16 @@
 - [Sleipnir4](https://www.fenrir-inc.com/jp/sleipnir/)
 - [Smultron](https://www.peterborgapps.com/smultron/)
 - [Sonarr](https://sonarr.tv/#home)
+- [Sound Control](https://staticz.com/soundcontrol/)
 - [SpamSieve](https://c-command.com/spamsieve/)
 - [Spark (Email)](https://sparkmailapp.com)
 - [Spark (Hotkey Automation)](https://www.shadowlab.org/Software/spark.php)
+- [Spillo](https://bananafishsoftware.com/products/spillo/)
 - [Spotify](https://www.spotify.com/us/download/other/)
 - [StatPlus](https://www.analystsoft.com/en/products/statplusmac/)
+- [Stay](https://cordlessdog.com/stay/)
 - [StoryMill](https://s3.amazonaws.com/MarinerDownloads/index.html)
+- [StuffIt Expander](https://stuffit.com)
 - [SubEthaEdit](https://subethaedit.net)
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home)
 - [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
@@ -330,6 +379,7 @@
 ## T
 - [Tables](https://www.x-tables.eu/more/overview.html)
 - [Tags](http://www.caseapps.com/tags/)
+- [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273)
 - [Tap Forms 5](https://www.tapforms.com)
 - [TaskPaper](https://www.taskpaper.com)
 - [TeaCode](https://www.apptorium.com/teacode)
@@ -338,6 +388,7 @@
 - [Tessa](https://www.miavy.com/tessa/)
 - [Texifier](https://www.texifier.com/mac)
 - [TeXShop](https://pages.uoregon.edu/koch/texshop/texshop.html)
+- [TextBar](http://richsomerfield.com/apps/textbar/)
 - TextEdit
 - [TextExpander](https://textexpander.com/vs/auto-text-expander)
 - [TextMate](https://macromates.com)
@@ -350,14 +401,17 @@
 - [Thunderbird](https://www.thunderbird.net/en-US/)
 - [Thyme](https://joaomoreno.github.io/thyme/)
 - [TickTick](https://www.ticktick.com)
+- [Tim](https://tim.neat.software)
 - [Timeline 3D](https://www.beedocs.com/timeline3D/mac/)
 - [Timelime](http://timelimeapp.com)
 - [Timer](https://www.apimac.com/mac/timer/)
+- [Timer RH](https://red-hot-timer-for-mac-os-x.3bitlab.com)
 - [Timing](https://timingapp.com)
 - [Tinderbox](http://www.eastgate.com/Tinderbox/)
 - [TinyAlarm](https://plumamazing.com/product/tinyalarm/)
 - [TinyCal](https://plumamazing.com/product/tinycal/)
 - [Toast 20 Titanium](https://www.roxio.com/en/products/toast/titanium/)
+- [Tomato One](https://apps.apple.com/us/app/tomato-one-free-focus-timer/id907364780?mt=12)
 - [Tomito](https://tomito.app)
 - [Tor Browser](https://www.torproject.org)
 - [Tot](https://tot.rocks)
@@ -365,15 +419,18 @@
 - [Transmission](https://transmissionbt.com)
 - [Transmit 5](https://panic.com/transmit/)
 - [Transnomino](https://transnomino.bastiaanverreijt.com)
+- [TripMode](https://tripmode.ch)
 - [Tunnelblick](https://tunnelblick.net)
 - TV
 - [Tyme](https://www.tyme-app.com/en/)
+- [Typeface](https://typefaceapp.com)
 - [Typinator](https://www.ergonis.com/products/typinator/)
 - [Typora](https://typora.io)
 
 ## U
 - [Unison](https://panic.com/blog/the-future-of-unison/)
 - [Usher](https://manytricks.com/usher/)
+- [UTM](https://mac.getutm.app)
 
 ## V
 - [Vienna](https://github.com/ViennaRSS/vienna-rss)
@@ -409,5 +466,6 @@
 - [Zotero](https://www.zotero.org)
 
 ## 0-9
+- [1Focus](https://onefocusapp.com2)
 
 ## Other
