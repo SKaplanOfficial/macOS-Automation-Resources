@@ -1,8 +1,9 @@
-# List of AppleScript-compatible Applications
+# List of AppleScript-Compatible Applications
 
 # Alphabetical
 
 ## A
+
 - [Acorn](https://flyingmeat.com/acorn/)
 - [Action Shortcuts](https://hazeover.com/actionshortcuts.html)
 - [Adium](https://adium.im)
@@ -25,6 +26,7 @@
 - AppleScript Utility
 - [Aquamacs](https://aquamacs.org)
 - [Arcadiate](http://www.mwilm-conway-ucd.de/Arcadiate/)
+- [Arc](https://arc.net)
 - [aText](https://trankynam.com/atext/)
 - [Atom](https://atom.io)
 - [AudioFinder](https://icedaudio.com/site/)
@@ -33,6 +35,7 @@
 - [Avogadro](https://avogadro.cc)
 
 ## B
+
 - [Balthisar Tidy](https://www.balthisar.com/software/tidy/)
 - [Bartender 4](https://www.macbartender.com)
 - [BBEdit](http://www.barebones.com/products/bbedit/index.html)
@@ -53,6 +56,7 @@
 - [BusyContacts](http://www.busycal.com/busycontacts/)
 
 ## C
+
 - [Caffeinator](https://jrr6.github.io/Caffeinator/)
 - [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine)
 - Calendar
@@ -86,6 +90,7 @@
 - [Cyndicate](http://cynicalpeak.com/cyndicate/)
 
 ## D
+
 - [Dash](https://kapeli.com/dash)
 - [Daylight](https://www.marketcircle.com)
 - [DeepLists](https://apps.apple.com/us/app/deeplists/id1479406401)
@@ -103,6 +108,7 @@
 - [DwellClick](https://pilotmoon.com/dwellclick/)
 
 ## E
+
 - [EagleFiler](https://c-command.com/eaglefiler/)
 - [Emacs](https://emacsformacosx.com)
 - [Emporter](https://emporter.app)
@@ -114,7 +120,8 @@
 - [ExpressVPN](https://www.expressvpn.com/vpn-software/vpn-mac)
 
 ## F
-- [Fake](https://fakeapp.com)
+
+- [Fake](https://fakeapp.com)43cf2e3408afd17c6358ba38b1dd75cf
 - [Fantastical](https://flexibits.com/fantastical)
 - [Fastmate](https://github.com/joelekstrom/fastmate/tree/219b216c4ba1c72fe9137bd2ab4ba13ae6985fd2)
 - [Feeder](https://reinventedsoftware.com/feeder/)
@@ -136,6 +143,7 @@
 - [FreelanceStation](https://ds9soft.com/freelancestation/)
 
 ## G
+
 - [Gapplin](http://gapplin.wolfrosch.com)
 - GarageBand
 - [GarageSale](https://www.iwascoding.com/GarageSale/index.html)
@@ -150,6 +158,7 @@
 - [GPG Keychain](https://gpgtools.org/keychain/)
 
 ## H
+
 - [Hachidori](https://malupdaterosx.moe/hachidori/)
 - [Hammerspoon](https://www.hammerspoon.org)
 - [Handbrake](https://handbrake.fr)
@@ -160,6 +169,7 @@
 - [Hue-topia](https://peacockmedia.software/mac/huetopia/)
 
 ## I
+
 - [iA Writer](https://ia.net/writer)
 - [iBarcoder](https://ibarcoder.com)
 - [iCab](http://icab.de)
@@ -180,6 +190,7 @@
 - [iVocabulary](https://apps.chbeer.de/ivocabulary/)
 
 ## J
+
 - [Jirassic](http://www.jirassic.com)
 - [JSON Helper for AppleScript](https://apps.apple.com/us/app/json-helper-for-applescript/id453114608?mt=12)
 - [JSTerminal](https://github.com/steelwheels/JSTerminal)
@@ -188,12 +199,14 @@
 - [Just Log - Time Tracker](https://apps.apple.com/us/app/just-log-time-tracker/id1510541339)
 
 ## K
+
 - [Keep It](https://reinventedsoftware.com/keepit/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/)
 - Keynote
 - [kSpectra](http://www.spectraworks.com/web/welcome.html)
 
 ## L
+
 - [Labeller](https://www.peninsula-group.com/labeller-thermal-labelling-software/)
 - [Labels and Databases](https://cristallight.com/LabelsAndDatabases/)
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html)
@@ -210,6 +223,7 @@
 - [LyX](https://www.lyx.org)
 
 ## M
+
 - [Mac CD/DVD Label Maker](https://cristallight.com/MacCdDvdLabelMaker/)
 - [MacDown](https://macdown.uranusjr.com)
 - [MaciASL](https://github.com/acidanthera/MaciASL)
@@ -250,6 +264,7 @@
 - Music
 
 ## N
+
 - [NeoFinder](https://cdfinder.de/index.html)
 - [NetNewsWire](https://netnewswire.com)
 - [NewsLife](http://thinkmac.co.uk/mac-apps/newslife/)
@@ -266,12 +281,14 @@
 - [nvALT](https://brettterpstra.com/projects/nvalt/)
 
 ## O
+
 - [OCRKit](https://ocrkit.com)
 - [OmniDiskSweeper](https://www.omnigroup.com/more)
 - [OmniFocus](https://www.omnigroup.com/omnifocus)
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 - [OmniPlan](https://www.omnigroup.com/omniplan)
+- [OmniWeb](https://omnistaging.omnigroup.com/omniweb)
 - [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/download)
 - [Opal](https://a-sharp.com/opal/opal.html)
 - [OpenSCAD](https://openscad.org/index.html)
@@ -280,6 +297,7 @@
 - [Orion](https://browser.kagi.com)
 
 ## P
+
 - Pages
 - [Panorama](https://limitpointstore.com/products/panorama/)
 - [Paper](https://papereditor.app)
@@ -306,9 +324,10 @@
 - [Puffin Secure Browser](https://www.puffin.com/secure-browser)
 
 ## Q
+
 - [QLab](https://qlab.app)
 - [QMidi](https://www.mixagesoftware.com)
-- [QR Journal](http://www.joshjacob.com/mac-development/qrjournal.php)
+- [QR Journal](http://www.joshjacob.com/mac-development/qrjournal.php)3f32a43cf2e3408afd17c6358ba38b1dd75cf
 - [Quickbooks](https://quickbooks.intuit.com/oa/get-quickbooks/)
 - [Quickly](https://apps.apple.com/us/app/quickly/id964195558?mt=12)
 - [Quicksilver](https://qsapp.com)
@@ -316,6 +335,7 @@
 - [QuickWho](https://www.codebykevin.com/quickwho.html)
 
 ## R
+
 - [R](https://www.r-project.org)
 - [Radiologik DJ](https://macinmind.com/?area=app&app=radiologik&pg=info)
 - [Radium](http://users.notam02.no/~kjetism/radium/index.php)
@@ -332,6 +352,7 @@
 - [RUMlogNG](https://dl2rum.de/rumsoft/RUMLog.html)
 
 ## S
+
 - Safari
 - [SatimageOSAX](https://github.com/alldritt/SatimageOSAX)
 - [Scorpion BarCode](https://www.scorpionresearch.com/srl/SBCH_Fea.htm)
@@ -377,6 +398,7 @@
 - System Preferences
 
 ## T
+
 - [Tables](https://www.x-tables.eu/more/overview.html)
 - [Tags](http://www.caseapps.com/tags/)
 - [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273)
@@ -428,11 +450,13 @@
 - [Typora](https://typora.io)
 
 ## U
+
 - [Unison](https://panic.com/blog/the-future-of-unison/)
 - [Usher](https://manytricks.com/usher/)
 - [UTM](https://mac.getutm.app)
 
 ## V
+
 - [Vienna](https://github.com/ViennaRSS/vienna-rss)
 - [Viper FTP](https://viperftp.com)
 - [Viscosity](https://www.sparklabs.com/viscosity/download/)
@@ -444,6 +468,7 @@
 - [VOX](https://vox.rocks/mac-music-player)
 
 ## W
+
 - [Wavebox](https://wavebox.io)
 - [Wavepad Audio Editor](https://www.nch.com.au/wavepad/index.html)
 - [WeatherCat](https://trixology.com/weathercat/)
@@ -454,18 +479,22 @@
 - [Wrise](https://www.assistiveware.com/products/wrise)
 
 ## X
+
 - [XChat Azure](https://xchataqua.github.io)
 - Xcode
 
 ## Y
+
 - [Yep](https://ironicsoftware.com/yep/)
 - [yKey](https://plumamazing.com/product/ykey/)
 
 ## Z
+
 - [Zavala](https://zavala.vincode.io)
 - [Zotero](https://www.zotero.org)
 
 ## 0-9
+
 - [1Focus](https://onefocusapp.com2)
 
 ## Other
