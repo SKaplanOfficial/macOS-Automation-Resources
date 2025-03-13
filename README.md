@@ -20,37 +20,33 @@ For each resource, links are provided for both the live website, where possible,
 
 ## Alfred Resources
 
-| Resource | Author/Owner | Type | Topics | Live Link | Archive Link |
+| Resource | Author/Owner | Type | Topics | Live Link(s) | Archive Link(s) |
 | -------- | ------ | ---- | ----------- | --------- | ------------ |
-| Getting Started with Alfred Workflows | [Alfred App](https://www.alfredapp.com) | Official Document | Tutorials, Examples | [https://www.alfredapp.com/help/workflows/getting-started/](https://www.alfredapp.com/help/workflows/getting-started/) | [Archive](https://web.archive.org/web/20230927161744/https://www.alfredapp.com/help/workflows/getting-started/) |
-| Alfred Forum | N/A | Forum | General Discussion, Tutorials, Examples, Bug Reports | [https://www.alfredforum.com](https://www.alfredforum.com) | [Archive](https://web.archive.org/web/2/https://www.alfredforum.com/) |
-| Alfred Workflows for Beginners | [Richard Guay](https://tutsplus.com/authors/richard-guay?_ga=2.238012288.1622482833.1704684048-1825643917.1652742227) | Blog Post | Tutorial | [https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t](https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) | [Archive](https://web.archive.org/web/20240108032300/https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) |
-| Alfred-Workflow for Python | [deanishe](https://github.com/deanishe) | Developer Tool | N/A | [https://www.deanishe.net/alfred-workflow/](https://www.deanishe.net/alfred-workflow/) | [Archive](https://web.archive.org/web/20231127221737/https://www.deanishe.net/alfred-workflow/) |
-
-### 🧑‍💻 Developer Tools
-
-- [Alfred-Workflow for Python (Live Link)](https://alfred-workflow.readthedocs.io/en/latest/)
-
-### 📂 Workflow Directories
-
-- [Alfred Gallery (Live Link)](https://alfred.app)
-- [Awesome Alfred Workflows (Live Link)](https://github.com/alfred-workflows/awesome-alfred-workflows#text-manipulation)
-- [AlfredWorkflows.store](https://www.alfredworkflows.store)
-- [Pacmax (Live Link)](https://pacmax.org)
-- [Packal (Live Link)](http://www.packal.org)
-- [vitorgalvao's Alfred Workflows (Live Link)](https://github.com/vitorgalvao/alfred-workflows/)
-- [ctwise's Alfred Workflows (Live Link)](https://github.com/ctwise/alfred-workflows)
-- [zenorocha's Alfred Workflows (Live Link)](https://github.com/zenorocha/alfred-workflows)
-- [Alfred Workflows - learn-anything (Live Link)](https://github.com/learn-anything/alfred-workflows)
-- [willfarrell's Alfred Workflows for Developers (Live Link)](https://github.com/willfarrell/alfred-workflows)
-- [msoedov's Collection of Alfred3 Workflows](https://github.com/msoedov/Alfred-collection)
+| Alfred Forum | N/A | Forum | General Discussion, Tutorials, Examples, Bug Reports | [Live Link](https://www.alfredforum.com) | [Archive](https://web.archive.org/web/2/https://www.alfredforum.com/) |
+| Alfred Gallery | [Alfred App](https://www.alfredapp.com) | Directory | Workflows, Examples | [Live Link](https://www.alfred.app) | [Archive](https://web.archive.org/web/20240621010520/https://alfred.app/) |
+| Alfred Workflows | [Florent Isidore](https://www.linkedin.com/in/florentisidore/) | Directory | Workflows, Examples | N/A | [Archive](https://web.archive.org/web/20221201222655/https://www.alfredworkflows.store/) |
+| Alfred Workflows for Beginners | [Richard Guay](https://tutsplus.com/authors/richard-guay?_ga=2.238012288.1622482833.1704684048-1825643917.1652742227) | Blog Post | Tutorial | [Live Link](https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) | [Archive](https://web.archive.org/web/20240108032300/https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) |
+| Alfred-Workflow for Python | [deanishe](https://github.com/deanishe) | Developer Tool | N/A | [Live Link](https://www.deanishe.net/alfred-workflow/) | [Archive](https://web.archive.org/web/20231127221737/https://www.deanishe.net/alfred-workflow/) |
+| Amazing Alfred Workflows | [Learn Anything](https://github.com/learn-anything) | Directory | Workflows, Examples | [Live Link](https://github.com/learn-anything/alfred-workflows) | [Archive](https://web.archive.org/web/20230127173544/https://github.com/learn-anything/alfred-workflows) |
+| Awesome Alfred Workflows (Deprecated) | [alfred-workflows](https://github.com/alfred-workflows) | Directory | Workflows, Examples | [Live Link](https://github.com/alfred-workflows/awesome-alfred-workflows?tab=readme-ov-file#text-manipulation) | [Archive](https://web.archive.org/web/20240725111558/https://github.com/alfred-workflows/awesome-alfred-workflows) |
+| ctwise's Alfred 2 Workflows | [Charles Wise](https://github.com/ctwise) | Directory | Workflows, Examples | [Live Link](https://github.com/ctwise/alfred-workflows) | [Archive](https://web.archive.org/web/20240727085458/https://github.com/ctwise/alfred-workflows) |
+| Getting Started with Alfred Workflows | [Alfred App](https://www.alfredapp.com) | Official Documentation | Tutorials, Examples | [Live Link](https://www.alfredapp.com/help/workflows/getting-started/) | [Archive](https://web.archive.org/web/20230927161744/https://www.alfredapp.com/help/workflows/getting-started/) |
+| msoedov's Collection of Alfred 3 Workflows | [Alexander Myasoedov](https://github.com/msoedov) | Directory | Workflows, Examples | [Live Link](https://github.com/msoedov/Alfred-collection) | [Archive](https://web.archive.org/web/20230308100959/https://github.com/msoedov/Alfred-collection) |
+| Packal | [Shawn Patrick Rice](https://github.com/shawnrice) | Directory | Workflows, Examples | [Live Link](http://www.packal.org) | [Archive](https://web.archive.org/web/20240722215020/https://www.packal.org/) |
+| Pacmax | [Maxwell White](https://maxs.link) | Directory | Workflows, Examples | [Live Link](https://pacmax.org) | [Archive](https://web.archive.org/web/20240725070827/https://pacmax.org/) |
+| vitorgalvao's Alfred Workflows | [Vítor Galvão](https://github.com/vitorgalvao) | Directory | Workflows, Examples | [Live Link](https://github.com/vitorgalvao/alfred-workflows/) | [Archive](https://github.com/vitorgalvao/alfred-workflows) |
+| willfarrell's Alfred 2 Workflows for Developers | [Will Farrell](https://github.com/willfarrell) | Directory | Workflows, Examples | [Live Link](https://github.com/willfarrell/alfred-workflows) | [Archive](https://web.archive.org/web/20240616061340/https://github.com/willfarrell/alfred-workflows) |
+| zenorocha's Alfred 3 & 4 Workflows | [Zeno Rocha](https://github.com/zenorocha) | Directory | Workflows, Examples | [Live Link](https://github.com/zenorocha/alfred-workflows) | [Archive](https://web.archive.org/web/20240616063728/https://github.com/zenorocha/alfred-workflows/) |
 
 ## AppleScript Resources
 
 ### 📑 Apple Documents
 
-- [AppleScript Overview - 2006](https://web.archive.org/web/20220630161718/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf)
-- [AppleScript Language Guide Website](https://web.archive.org/web/20220627082327/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1)
+| Resource | Author/Owner | Type | Topics | Live Link(s) | Archive Link(s) |
+| AppleScript Overview (PDF, 2006) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://applescriptlibrary.wordpress.com/wp-content/uploads/2013/11/applescript-overview.pdf) | [Archive](https://web.archive.org/web/20220630161718/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf) |
+| AppleScript Language Guide (Website) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) | [Archive](https://web.archive.org/web/20220627082327/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1) |
+| AppleScript Language Guide (PDF) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://web.archive.org/web/20220630161504/https://nathangrigg.com/images/2012/AppleScriptLanguageGuide.pdf) | [Archive](https://archive.org/details/apple-script-language-guide) |
+
 - [AppleScript Language Guide PDF](https://web.archive.org/web/20220630161504/https://nathangrigg.com/images/2012/AppleScriptLanguageGuide.pdf)
 - [Mac Automation Scripting Guide](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html)
 - [AppleScript Release Notes](https://web.archive.org/web/20211207020852/https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html)
@@ -298,16 +294,10 @@ For each resource, links are provided for both the live website, where possible,
 
 ## JXA Resources
 
-### 🧑‍🏫 Tutorials
-
-- [Automating macOS with Javascript for Automation - Josh Parnham (Live Link)](https://github.com/josh-/automating-macOS-with-JXA-presentation)
-
 ### 📑 Apple Documents
 
 - [Mac Scripting Essentials](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html#//apple_ref/doc/uid/TP40016239-CH56-SW1)
 - [JXA Release Notes](https://web.archive.org/web/20220609213837/https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)
-
-### 📖 Books
 
 ### 📺 Videos
 
@@ -329,7 +319,6 @@ For each resource, links are provided for both the live website, where possible,
 ### 🧑‍💻 Code Samples
 
 - [chrome-control/chrome.js](https://web.archive.org/web/20220620120256/https://github.com/bit2pixel/chrome-control/blob/master/chrome.js)
-- [JXA Examples (Live Link)](https://github.com/akjems/JXA-Examples)
 - [Copy & Get Selection to Clipboard JXA.js - JMichaelTX](https://web.archive.org/web/20220628233219/https://gist.github.com/JMichaelTX/807c87319ec5efa2f9970be9e4317288)
 - [Transform String on Clipboard to Title Case JXA.js - JMichaelTX](https://web.archive.org/web/20220628233525/https://gist.github.com/JMichaelTX/08a38accadbec4da2736)
 - [Toggle dock position - Carlos Daniel](https://web.archive.org/web/20220705201437/https://github.com/carlosdnba/mac-automations/blob/master/toggle-dock-position.scpt)
@@ -340,11 +329,12 @@ For each resource, links are provided for both the live website, where possible,
 - [Statusbar App in JXA - uchcode](https://web.archive.org/web/20220805161740/https://gist.github.com/uchcode/96fa4febe6a0386a6348)
 - [Japanese Examples of JXA](https://web.archive.org/web/20220811215039/http://www.openspc2.org/reibun/JXA/Yosemite/#google_vignette)
 
-### ❓ Other Resources
-
-- [JavaScript for Automation Cookbook (Live Link)](https://github.com/JXA-Cookbook/JXA-Cookbook)
-- [Scripting with JXA - Christian Kirsch](https://web.archive.org/web/20220628232157/https://bru6.de/jxa/)
-- [JXA Examples - akjems](https://web.archive.org/web/20220628234634/https://jxa-examples.akjems.com/#apple-ref-add-attendee-to-event)
+| Resource | Author/Owner | Type | Topics | Live Link | Archive Link |
+| -------- | ------ | ---- | ----------- | --------- | ------------ |
+| Automating macOS with Javascript for Automation | [Josh Parnham](https://github.com/josh-) | Tutorial | General Examples, Basics, Foundation, AppKit | [Live Link](https://github.com/josh-/automating-macOS-with-JXA-presentation) | [Archive](https://web.archive.org/web/20230204024801/https://github.com/josh-/automating-macOS-with-JXA-presentation) |
+| JXA Cookbook | Various | Wiki| Tutorials, Examples, Discussion  | [Live Link](https://github.com/JXA-Cookbook/JXA-Cookbook) | [Archive](https://web.archive.org/web/20240530161227/https://github.com/JXA-Cookbook/JXA-Cookbook) |
+| Scripting with JXA | Christian Kirsch | Overview | Tutorials, Examples | [Live Link](https://bru6.de/jxa/) | [Archive](https://web.archive.org/web/20220628232157/https://bru6.de/jxa/) |
+| JXA Examples | [Adam Kjems](https://akjems.com) | Code Samples | General Examples | [Live Link](https://jxa-examples.akjems.com/) | [Archive](https://web.archive.org/web/20220628234634/https://jxa-examples.akjems.com/) |
 
 ## PyObjC Resources
 
