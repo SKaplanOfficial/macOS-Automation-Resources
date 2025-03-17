@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a new resource!
+        Thanks for taking the time to submit a new resource! Note that all submissions are subject to review and may be edited for clarity, consistency, and relevance. Please fill out the following form to the best of your ability.
   - type: dropdown
     id: kind
     attributes:
@@ -31,11 +31,11 @@ body:
     validations:
       required: true
   - type: input
-    id: title
+    id: name
     attributes:
-      label: Title
+      label: Name
       description: |
-        The full title of the resource you're suggesting.
+        The name of the resource you're suggesting. For most resources, this will be the title of an article, website, or book. If no official title is available, suggest a descriptive name.
     validations:
       required: true
   - type: input
@@ -57,12 +57,14 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: details
+      label: Details
       description: |
         Details about the resource you're suggesting, including a brief summary, keywords, and other relevant information.
       value: |
         ### Summary:
         <!-- A brief summary of the resource you're suggesting. -->
+
+        This resource describes...
 
         ### Keywords:
         <!-- A list of keywords for topics covered by the resource. Ex: Finder.app, Mail.app, dialogs, do shell script, NSImage, etc. -->"
