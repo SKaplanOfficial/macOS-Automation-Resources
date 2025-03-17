@@ -1,0 +1,90 @@
+name: "🆕 Add a Resource"
+description: Suggest a new resource to add to the collection
+labels: ["new resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a new resource!
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      description: |
+        What automation technology does this resource relate to?
+      options:
+        - Alfred
+        - AppleScript
+        - appscript
+        - Automator
+        - Hammerspoon
+        - JXA
+        - Keyboard Maestro
+        - NodeAutomation
+        - Raycast
+        - Shell Scripts
+        - Shortcuts
+        - SwiftAutomation
+        - URL Schemes
+        - Other
+      default: 1
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: |
+        The full title of the resource you're suggesting.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: |
+        The original (live) URL of the resource you're suggesting. If your suggestion is a file or other non-web resource, please provide a direct download link if possible, or a link to the resource's homepage (e.g. for a book or application).
+    validations:
+      required: false
+  - type: input
+    id: archive
+    attributes:
+      label: Archive URL
+      description: |
+        An archived version of the resource's URL, if available. Any archiving service is acceptable, but the Internet Archive's Wayback Machine is preferred. Leave blank if no archive is available (e.g. for sites that prevent archiving).
+    validations:
+      required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: details
+      description: |
+        Details about the resource you're suggesting, including a brief summary, keywords, and other relevant information.
+      value: |
+        ### Summary:
+        <!-- A brief summary of the resource you're suggesting. -->
+
+        ### Keywords:
+        <!-- A list of keywords for topics covered by the resource. Ex: Finder.app, Mail.app, dialogs, do shell script, NSImage, etc. -->"
+
+        - 
+        - 
+        - 
+
+        ### Optional Details:
+        <!-- Additional information that may help speed up the review process. Please fill in any fields you can, leaving the rest blank. -->
+
+        Resource Author:
+        Date Published:
+        Content License:
+        Content Version:
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: |
+        Any additional notes or context you'd like to provide about the resource.
+    validations:
+      required: false
