@@ -6,6 +6,14 @@ body:
     attributes:
       value: |
         Thanks for taking the time to submit a new resource! Note that all submissions are subject to review and may be edited for clarity, consistency, and relevance. Please fill out the following form to the best of your ability.
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+      description: |
+        The name of the resource you're suggesting. For most resources, this will be the title of an article, website, or book. If no official title is available, suggest a descriptive name.
+    validations:
+      required: true
   - type: dropdown
     id: kind
     attributes:
@@ -14,7 +22,7 @@ body:
         What automation technology does this resource relate to?
       options:
         - Alfred
-        - AppleScript
+        - AppleScript/ASObjC
         - appscript
         - Automator
         - Hammerspoon
@@ -28,14 +36,6 @@ body:
         - URL Schemes
         - Other
       default: 1
-    validations:
-      required: true
-  - type: input
-    id: name
-    attributes:
-      label: Name
-      description: |
-        The name of the resource you're suggesting. For most resources, this will be the title of an article, website, or book. If no official title is available, suggest a descriptive name.
     validations:
       required: true
   - type: input
