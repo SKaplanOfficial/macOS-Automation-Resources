@@ -4,9 +4,13 @@ This is a collection of resources for macOS automation technologies. The resourc
 
 For each resource, links are provided for both the live website, where possible, and a [Wayback Machine](https://web.archive.org) archive, where reasonable.
 
+Have questions or comments? Open an [issue](https://github.com/SKaplanOfficial/macOS-Automation-Resources/issues/new/choose) or email [stephen@mac-nerd.org](mailto:stephen@mac-nerd.org).
+
+Contributions welcome!
+
 ## Contents
 
-- [🍎 AppleScript Resources](#applescript-resources)
+- [🍎 AppleScript & ASObjC Resources](#applescript--asobjc-resources)
 - [⚙️ AppScript Resources](#appscript-resources)
 - [🤖 Automator Resources](#automator-resources)
 - [🔨 Hammerspoon Resources](#hammerspoon-resources)
@@ -22,34 +26,39 @@ For each resource, links are provided for both the live website, where possible,
 
 | Resource | Author/Owner | Type | Topics | Live Link(s) | Archive Link(s) |
 | -------- | ------ | ---- | ----------- | --------- | ------------ |
-| Alfred Forum | N/A | Forum | General Discussion, Tutorials, Examples, Bug Reports | [Live Link](https://www.alfredforum.com) | [Archive](https://web.archive.org/web/2/https://www.alfredforum.com/) |
-| Alfred Gallery | [Alfred App](https://www.alfredapp.com) | Directory | Workflows, Examples | [Live Link](https://www.alfred.app) | [Archive](https://web.archive.org/web/20240621010520/https://alfred.app/) |
+| Alfred Forum | N/A | Forum | General Discussion, Tutorials, Examples, Bug Reports | [Website](https://www.alfredforum.com) | [Archive](https://web.archive.org/web/2/https://www.alfredforum.com/) |
+| Alfred Gallery | [Alfred App](https://www.alfredapp.com) | Directory | Workflows, Examples | [Website](https://www.alfred.app) | [Archive](https://web.archive.org/web/20240621010520/https://alfred.app/) |
 | Alfred Workflows | [Florent Isidore](https://www.linkedin.com/in/florentisidore/) | Directory | Workflows, Examples | N/A | [Archive](https://web.archive.org/web/20221201222655/https://www.alfredworkflows.store/) |
-| Alfred Workflows for Beginners | [Richard Guay](https://tutsplus.com/authors/richard-guay?_ga=2.238012288.1622482833.1704684048-1825643917.1652742227) | Blog Post | Tutorial | [Live Link](https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) | [Archive](https://web.archive.org/web/20240108032300/https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) |
-| Alfred-Workflow for Python | [deanishe](https://github.com/deanishe) | Developer Tool | N/A | [Live Link](https://www.deanishe.net/alfred-workflow/) | [Archive](https://web.archive.org/web/20231127221737/https://www.deanishe.net/alfred-workflow/) |
-| Amazing Alfred Workflows | [Learn Anything](https://github.com/learn-anything) | Directory | Workflows, Examples | [Live Link](https://github.com/learn-anything/alfred-workflows) | [Archive](https://web.archive.org/web/20230127173544/https://github.com/learn-anything/alfred-workflows) |
-| Awesome Alfred Workflows (Deprecated) | [alfred-workflows](https://github.com/alfred-workflows) | Directory | Workflows, Examples | [Live Link](https://github.com/alfred-workflows/awesome-alfred-workflows?tab=readme-ov-file#text-manipulation) | [Archive](https://web.archive.org/web/20240725111558/https://github.com/alfred-workflows/awesome-alfred-workflows) |
-| ctwise's Alfred 2 Workflows | [Charles Wise](https://github.com/ctwise) | Directory | Workflows, Examples | [Live Link](https://github.com/ctwise/alfred-workflows) | [Archive](https://web.archive.org/web/20240727085458/https://github.com/ctwise/alfred-workflows) |
-| Getting Started with Alfred Workflows | [Alfred App](https://www.alfredapp.com) | Official Documentation | Tutorials, Examples | [Live Link](https://www.alfredapp.com/help/workflows/getting-started/) | [Archive](https://web.archive.org/web/20230927161744/https://www.alfredapp.com/help/workflows/getting-started/) |
-| msoedov's Collection of Alfred 3 Workflows | [Alexander Myasoedov](https://github.com/msoedov) | Directory | Workflows, Examples | [Live Link](https://github.com/msoedov/Alfred-collection) | [Archive](https://web.archive.org/web/20230308100959/https://github.com/msoedov/Alfred-collection) |
-| Packal | [Shawn Patrick Rice](https://github.com/shawnrice) | Directory | Workflows, Examples | [Live Link](http://www.packal.org) | [Archive](https://web.archive.org/web/20240722215020/https://www.packal.org/) |
-| Pacmax | [Maxwell White](https://maxs.link) | Directory | Workflows, Examples | [Live Link](https://pacmax.org) | [Archive](https://web.archive.org/web/20240725070827/https://pacmax.org/) |
-| vitorgalvao's Alfred Workflows | [Vítor Galvão](https://github.com/vitorgalvao) | Directory | Workflows, Examples | [Live Link](https://github.com/vitorgalvao/alfred-workflows/) | [Archive](https://github.com/vitorgalvao/alfred-workflows) |
-| willfarrell's Alfred 2 Workflows for Developers | [Will Farrell](https://github.com/willfarrell) | Directory | Workflows, Examples | [Live Link](https://github.com/willfarrell/alfred-workflows) | [Archive](https://web.archive.org/web/20240616061340/https://github.com/willfarrell/alfred-workflows) |
-| zenorocha's Alfred 3 & 4 Workflows | [Zeno Rocha](https://github.com/zenorocha) | Directory | Workflows, Examples | [Live Link](https://github.com/zenorocha/alfred-workflows) | [Archive](https://web.archive.org/web/20240616063728/https://github.com/zenorocha/alfred-workflows/) |
+| Alfred Workflows for Beginners | [Richard Guay](https://tutsplus.com/authors/richard-guay?_ga=2.238012288.1622482833.1704684048-1825643917.1652742227) | Blog Post | Tutorial | [Website](https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) | [Archive](https://web.archive.org/web/20240108032300/https://computers.tutsplus.com/alfred-workflows-for-beginners--mac-55446t) |
+| Alfred-Workflow for Python | [deanishe](https://github.com/deanishe) | Developer Tool | N/A | [Website](https://www.deanishe.net/alfred-workflow/) | [Archive](https://web.archive.org/web/20231127221737/https://www.deanishe.net/alfred-workflow/) |
+| Amazing Alfred Workflows | [Learn Anything](https://github.com/learn-anything) | Directory | Workflows, Examples | [GitHub](https://github.com/learn-anything/alfred-workflows) | [Archive](https://web.archive.org/web/20230127173544/https://github.com/learn-anything/alfred-workflows) |
+| Awesome Alfred Workflows (Deprecated) | [alfred-workflows](https://github.com/alfred-workflows) | Directory | Workflows, Examples | [GitHub](https://github.com/alfred-workflows/awesome-alfred-workflows?tab=readme-ov-file#text-manipulation) | [Archive](https://web.archive.org/web/20240725111558/https://github.com/alfred-workflows/awesome-alfred-workflows) |
+| ctwise's Alfred 2 Workflows | [Charles Wise](https://github.com/ctwise) | Directory | Workflows, Examples | [GitHub](https://github.com/ctwise/alfred-workflows) | [Archive](https://web.archive.org/web/20240727085458/https://github.com/ctwise/alfred-workflows) |
+| Getting Started with Alfred Workflows | [Alfred App](https://www.alfredapp.com) | Official Documentation | Tutorials, Examples | [Website](https://www.alfredapp.com/help/workflows/getting-started/) | [Archive](https://web.archive.org/web/20230927161744/https://www.alfredapp.com/help/workflows/getting-started/) |
+| msoedov's Collection of Alfred 3 Workflows | [Alexander Myasoedov](https://github.com/msoedov) | Directory | Workflows, Examples | [GitHub](https://github.com/msoedov/Alfred-collection) | [Archive](https://web.archive.org/web/20230308100959/https://github.com/msoedov/Alfred-collection) |
+| Packal | [Shawn Patrick Rice](https://github.com/shawnrice) | Directory | Workflows, Examples | [Website](http://www.packal.org) | [Archive](https://web.archive.org/web/20240722215020/https://www.packal.org/) |
+| Pacmax | [Maxwell White](https://maxs.link) | Directory | Workflows, Examples | [Website](https://pacmax.org) | [Archive](https://web.archive.org/web/20240725070827/https://pacmax.org/) |
+| vitorgalvao's Alfred Workflows | [Vítor Galvão](https://github.com/vitorgalvao) | Directory | Workflows, Examples | [GitHub](https://github.com/vitorgalvao/alfred-workflows/) | [Archive](https://github.com/vitorgalvao/alfred-workflows) |
+| willfarrell's Alfred 2 Workflows for Developers | [Will Farrell](https://github.com/willfarrell) | Directory | Workflows, Examples | [GitHub](https://github.com/willfarrell/alfred-workflows) | [Archive](https://web.archive.org/web/20240616061340/https://github.com/willfarrell/alfred-workflows) |
+| zenorocha's Alfred 3 & 4 Workflows | [Zeno Rocha](https://github.com/zenorocha) | Directory | Workflows, Examples | [GitHub](https://github.com/zenorocha/alfred-workflows) | [Archive](https://web.archive.org/web/20240616063728/https://github.com/zenorocha/alfred-workflows/) |
 
-## AppleScript Resources
+## AppleScript & ASObjC Resources
 
 ### 📑 Apple Documents
 
-| Resource | Author/Owner | Type | Topics | Live Link(s) | Archive Link(s) |
-| AppleScript Overview (PDF, 2006) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://applescriptlibrary.wordpress.com/wp-content/uploads/2013/11/applescript-overview.pdf) | [Archive](https://web.archive.org/web/20220630161718/https://mirror.macintosharchive.org/developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf) |
-| AppleScript Language Guide (Website) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) | [Archive](https://web.archive.org/web/20220627082327/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1) |
-| AppleScript Language Guide (PDF) | Apple Computer, Inc. | Official Documentation | General Concepts, Syntax, Examples | [Live Link](https://web.archive.org/web/20220630161504/https://nathangrigg.com/images/2012/AppleScriptLanguageGuide.pdf) | [Archive](https://archive.org/details/apple-script-language-guide) |
-
-- [AppleScript Language Guide PDF](https://web.archive.org/web/20220630161504/https://nathangrigg.com/images/2012/AppleScriptLanguageGuide.pdf)
-- [Mac Automation Scripting Guide](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html)
-- [AppleScript Release Notes](https://web.archive.org/web/20211207020852/https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html)
+| Resource | Type | Topics | Live Link(s) | Archive Link(s) |
+| --- | --- | --- | --- | --- |
+| AppleScript Overview (Website) | Official Documentation | General Concepts, Syntax, Examples | [Website](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html) | [Archive](https://web.archive.org/web/20250311190017/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html) |
+| AppleScript Overview (PDF, 2007) | Official Documentation | General Concepts, Syntax, Examples | [PDF](https://applescriptlibrary.wordpress.com/wp-content/uploads/2013/11/applescript-overview.pdf) | [Archive](https://web.archive.org/web/20080513185706/http://developer.apple.com/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.pdf) |
+| AppleScript Language Guide (Website) | Official Documentation | General Concepts, Syntax, Examples | [Website](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) | [Archive](https://web.archive.org/web/20220627082327/https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) |
+| AppleScript Language Guide (PDF, 2013) | Official Documentation | General Concepts, Syntax, Examples | [PDF](https://applescriptlibrary.wordpress.com/wp-content/uploads/2013/11/applescriptlanguageguide-2013.pdf) | [Archive](https://web.archive.org/web/20140914115606/https://developer.apple.com/library/mac/documentation/applescript/conceptual/applescriptlangguide/AppleScriptLanguageGuide.pdf) |
+| Mac Automation Scripting Guide | Official Documentation | General Concepts, Syntax, Examples, Tutorials | [Website](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html) | [Archive](https://web.archive.org/web/20220611122702/https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html) |
+| AppleScript Terminology and Apple Event Codes | Official Documentation | Syntax, AppleEvents, OSTypes | [Website](https://developer.apple.com/library/archive/releasenotes/AppleScript/ASTerminology_AppleEventCodes/TermsAndCodes.html) | [Archive](https://web.archive.org/web/20230314181732/https://developer.apple.com/library/archive/releasenotes/AppleScript/ASTerminology_AppleEventCodes/TermsAndCodes.html) |
+| Calendar Scripting Guide | Official Documentation | Calendar, Events, Examples | [Website](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/CalendarScriptingGuide/index.html) | [Archive](https://web.archive.org/web/20240619121403/https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/CalendarScriptingGuide/index.html) |
+| Technical Note TN2065: do shell script in AppleScript | Official Documentation | Standard Additions | [Website](https://developer.apple.com/library/archive/technotes/tn2065/_index.html) | [Archive](https://web.archive.org/web/20250201202608/https://developer.apple.com/library/archive/technotes/tn2065/_index.html) |
+| Technical Q&A QA1018: Using AppleScript to send an email with an attachment | Official Documentation | Mail, choose file, multiline comments | [Website](https://developer.apple.com/library/archive/qa/qa2001/qa1018.html) | [Archive](https://web.archive.org/web/20220515055911/https://developer.apple.com/library/archive/qa/qa2001/qa1018.html) |
+| AppleScript Release Notes | Official Documentation | History, Notes | [Website](https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html) | [Archive](https://web.archive.org/web/20250307192323/https://developer.apple.com/library/archive/releasenotes/AppleScript/RN-AppleScript/Introduction/Introduction.html) |
+| AppleScriptObjC Release Notes | Official Documentation | ASObjC, Objective-C, Cocoa, History | [Website](https://developer.apple.com/library/archive/releasenotes/ScriptingAutomation/RN-AppleScriptObjC/index.html) | [Archive](https://web.archive.org/web/20241219065413/https://developer.apple.com/library/archive/releasenotes/ScriptingAutomation/RN-AppleScriptObjC/index.html) |
 
 ### 📖 Books
 
@@ -82,12 +91,19 @@ For each resource, links are provided for both the live website, where possible,
 
 - [Tutorials for AppleScript - Nikolay Smorgun (Paid, Live Link)](https://www.udemy.com/share/1021As/)
 
-### 📬 Forums/Blogs/Mailing Lists
+### Blogs
+
+- [Doug's AppleScripts (Live Link)](https://dougscripts.com/itunes/index.php)
+- [The Robservatory (Live Link)](https://robservatory.com/tag/applescript/)
+
+### 📧 Forums
+
+- Fischer-Bayern's AppleScript Forum (German) [Live Link](http://www.fischer-bayern.de/phpBB2/viewforum.php?f=1) [Archive](https://web.archive.org/web/20210730070808/http://www.fischer-bayern.de/phpBB2/viewforum.php?f=1)
+
+### Mailing Lists
 
 - [AppleScript Users Mailing List (Live Link)](https://lists.apple.com/mailman/listinfo/applescript-users)
 - [MACSCRPT@LISTSERV.DARTMOUTH.EDU (Live Link)](https://listserv.dartmouth.edu/scripts/wa.exe?A0=MACSCRPT)
-- [Doug's AppleScripts (Live Link)](https://dougscripts.com/itunes/index.php)
-- [The Robservatory (Live Link)](https://robservatory.com/tag/applescript/)
 
 ### 📧 Forum/Blog/Mailing List Posts
 
@@ -138,6 +154,7 @@ For each resource, links are provided for both the live website, where possible,
 - [AppleScript Snippets - wik](https://web.archive.org/web/2/http://natural-innovations.com/as/snippets.html)
 - [Whose in AppleScript - Dr. Dang](https://web.archive.org/web/20181009130500/http://leancrew.com/all-this/2013/10/whose-in-applescript/#:~:text=The%20arguments%20can%20be%20any%20part%20of%20any,whose%20name%20contains%20%22kern%22%20and%20name%20contains%20%22brian%22)
 - [A Strategy for UI Scripting in AppleScript - n8henrie](https://web.archive.org/web/2/https://n8henrie.com/2013/03/a-strategy-for-ui-scripting-in-applescript/)
+- Handler for Trimming Text (German) [Live Link](http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=1225) [Archive](https://web.archive.org/web/20210730070808/http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=3)
 
 ### 🧑‍💻 Code Samples
 
