@@ -1,0 +1,109 @@
+{
+  "id": "https://skaplan.io/schemas/v1/proto/URLWrapper.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Forum Post",
+  "description": "A protocol for composite objects that wrap a URL target together with its metadata. Object implementing this protocol must expose a `targetURLs` property with entries for the URL and its archived version.",
+  "type": "object",
+  "properties": {
+    "targetURLs": {
+      "description": "The target URL of the object, and an archived version of the URL.",
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "uniqueItems": true,
+      "additionalItems": false,
+      "allOf": [
+        {
+          "if": {
+            "not": {
+              "allOf": [
+                {
+                  "contains": {
+                    "properties": {
+                      "associatedURLs": {
+                        "contains": {
+                          "properties": {
+                            "relationship": {
+                              "const": "isArchivedAt"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "contains": {
+                    "properties": {
+                      "associatedURLs": {
+                        "contains": {
+                          "properties": {
+                            "relationship": {
+                              "const": "isArchiveOf"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "then": {
+            "items": {
+              "properties": {
+                "associatedURLs": {
+                  "items": {
+                    "properties": {
+                      "relationship": {
+                        "oneOf": [
+                          {
+                            "const": "isArchiveOf",
+                            "description": "Indicates that this URL is an archived version of the associated URL. Required when `isArchive` is true."
+                          },
+                          {
+                            "const": "isArchivedAt",
+                            "description": "Indicates that the associated URL is an archive of this URL."
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "allOf": [
+                    {
+                      "contains": {
+                        "properties": {
+                          "relationship": {
+                            "const": "isArchiveOf"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "contains": {
+                        "properties": {
+                          "relationship": {
+                            "const": "isArchivedAt"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "else": {
+            "items": {
+              "$ref": "../URL.schema.json"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "required": [
+    "targetURLs"
+  ]
+}

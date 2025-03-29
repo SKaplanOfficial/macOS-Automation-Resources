@@ -1,0 +1,45 @@
+{
+  "id": "https://skaplan.io/schemas/v1/SoftwareVersion.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Version",
+  "description": "A version of a software application.",
+  "type": "object",
+  "properties": {
+    "type": {
+      "description": "The type of the version. Unless otherwise noted, use 'release'.",
+      "type": "string",
+      "enum": [
+        "alpha",
+        "beta",
+        "releaseCandidate",
+        "release"
+      ]
+    },
+    "label": {
+      "description": "An optional label for the version that provides additional context, such as 'Minor Update' or 'Security Patch'.",
+      "type": "string"
+    },
+    "versionNumber": {
+      "description": "The version number of the application. Remove prefixes such as 'v', 'Version', or 'Beta'.",
+      "type": "string"
+    },
+    "releaseDate": {
+      "description": "The date the version was released, formatted as YYYY-MM-DD.",
+      "type": "string",
+      "format": "date"
+    },
+    "releaseNotes": {
+      "description": "The official release notes for the version, formatted as a Markdown list.",
+      "type": "string"
+    },
+    "metadata": {
+      "description": "Metadata about this data entry.",
+      "type": "object",
+      "$ref": "./RecordMetadata.schema.json"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "versionNumber"
+  ]
+}

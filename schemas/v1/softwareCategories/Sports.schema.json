@@ -1,0 +1,23 @@
+{
+  "id": "https://skaplan.io/schemas/v1/softwareCategories/Sports.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Software Category: Sports",
+  "description": "The category of software applications encompassing all tools used by athletes, coaches, and sports enthusiasts.",
+  "type": "string",
+  "enum": [
+    "Training & Coaching",
+    "Performance Tracking",
+    "Video Analysis",
+    "Injury Prevention & Recovery",
+    "Strategy & Tactics",
+    "Fan Engagement",
+    "Sports Betting",
+    "Rosters",
+    "Sports News",
+    "Diet Planning",
+    "Tickets & Events",
+    "Merchandise",
+    "Sporting Equipment",
+    "Competitions"
+  ]
+}

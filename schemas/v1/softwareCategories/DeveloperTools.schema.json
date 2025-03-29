@@ -1,0 +1,26 @@
+{
+  "id": "https://skaplan.io/schemas/v1/softwareCategories/DeveloperTools.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Software Category: Developer Tools",
+  "description": "The category of software applications encompassing all tools used by developers to create, maintain, and test software.",
+  "type": "string",
+  "enum": [
+    "Code Editors & IDEs",
+    "Command Line Tools",
+    "Debugging",
+    "Documentation",
+    "Error Tracking",
+    "Code Review",
+    "Compilers",
+    "Localization",
+    "Dependency Management",
+    "Linters",
+    "Performance Monitoring",
+    "Testing",
+    "Version Control",
+    "Database Management",
+    "Specifications & Standards",
+    "Runtime Environments",
+    "Build Tools"
+  ]
+}

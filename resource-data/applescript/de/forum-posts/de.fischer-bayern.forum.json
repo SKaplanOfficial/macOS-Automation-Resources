@@ -1,0 +1,42 @@
+{
+  "$schema": "https://skaplan.io/schemas/v1/Forum.schema.json",
+  "name": "Fischer Bayern's AppleScript Forum",
+  "summary": "German forum from the early 2000s for discussing AppleScript and sharing scripts. Inactive since 2012.",
+  "isActive": false,
+  "language": "de",
+  "targetURLs": [
+    {
+      "url": "http://www.fischer-bayern.de/phpBB2/index.php",
+      "title": "Fischer-Bayern.de :: Index",
+      "suggestedTitle": "Index of Fischer Bayern's AppleScript Forum",
+      "summary": "Category index of Fischer Bayern's AppleScript Forum",
+      "contentLanguage": "de",
+      "isArchive": false,
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchivedAt",
+          "url": "https://web.archive.org/web/20250125233825/http://fischer-bayern.de/phpBB2/index.php"
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20250125233825/http://fischer-bayern.de/phpBB2/index.php",
+      "title": "Fischer-Bayern.de :: Index",
+      "suggestedTitle": "Index of Fischer Bayern's AppleScript Forum",
+      "summary": "Category index of Fischer Bayern's AppleScript Forum (Archive)",
+      "contentLanguage": "de",
+      "isArchive": true,
+      "archiveDate": "2025-01-25",
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchiveOf",
+          "url": "http://www.fischer-bayern.de/phpBB2/index.php"
+        }
+      ]
+    }
+  ]
+}

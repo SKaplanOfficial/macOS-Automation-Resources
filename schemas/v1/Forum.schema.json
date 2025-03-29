@@ -1,0 +1,68 @@
+{
+  "id": "https://skaplan.io/schemas/v1/Forum.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Forum",
+  "description": "A forum for discussing topics online.",
+  "type": "object",
+  "allOf": [
+    {
+      "properties": {
+        "name": {
+          "description": "The name of the forum.",
+          "type": "string"
+        },
+        "owner": {
+          "description": "The owner of the forum. This can be a person, organization, or company.",
+          "oneOf": [
+            {
+              "$ref": "./Contributor.schema.json"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "summary": {
+          "description": "A brief overview of what the forum is about.",
+          "type": "string"
+        },
+        "isActive": {
+          "description": "Whether the forum is still active.",
+          "type": "boolean"
+        },
+        "language": {
+          "description": "The language the forum users primarily communicate in.",
+          "type": "string"
+        },
+        "additionalLinks": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "object",
+            "$ref": "./URL.schema.json"
+          }
+        },
+        "keywords": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "metadata": {
+          "description": "Metadata about the forum record.",
+          "type": "object",
+          "$ref": "./RecordMetadata.schema.json"
+        }
+      }
+    },
+    {
+      "$ref": "./proto/URLWrapper.schema.json"
+    }
+  ],
+  "required": [
+    "name",
+    "language"
+  ]
+}

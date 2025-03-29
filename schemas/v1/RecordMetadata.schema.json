@@ -1,0 +1,112 @@
+{
+  "id": "https://skaplan.io/schemas/v1/RecordMetadata.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Record Metadata",
+  "description": "Metadata about a record in a data store.",
+  "type": "object",
+  "properties": {
+    "recordAuthors": {
+      "description": "A list of contributors who have helped document the URL.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "object",
+            "$ref": "./Contributor.schema.json"
+          }
+        ]
+      }
+    },
+    "recordDate": {
+      "description": "The date the URL was first documented.",
+      "type": "string",
+      "format": "date"
+    },
+    "lastUpdate": {
+      "description": "The date the record was last updated.",
+      "type": "string",
+      "format": "date"
+    },
+    "changelog": {
+      "description": "A list of changes made to the record.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "description": "The date the change was made.",
+            "type": "string",
+            "format": "date"
+          },
+          "description": {
+            "description": "A description of the change.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "date",
+          "description"
+        ]
+      }
+    },
+    "notes": {
+      "description": "Additional notes about the record that provide context or additional information to other contributors.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "object",
+            "properties": {
+              "content": {
+                "description": "The text content of the note.",
+                "type": "string"
+              },
+              "author": {
+                "description": "The name or pseudonym of the contributor who wrote the note.",
+                "type": "string"
+              },
+              "date": {
+                "description": "The date the note was written.",
+                "type": "string",
+                "format": "date"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false,
+  "if": {
+    "properties": {
+      "recordAuthors": {
+        "type": "array",
+        "minItems": 2
+      }
+    }
+  },
+  "then": {
+    "required": [
+      "recordAuthors",
+      "recordDate",
+      "lastUpdate",
+      "changelog"
+    ]
+  },
+  "else": {
+    "required": [
+      "recordAuthors",
+      "recordDate",
+      "lastUpdate"
+    ]
+  }
+}

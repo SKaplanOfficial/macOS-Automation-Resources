@@ -1,0 +1,150 @@
+{
+  "$schema": "https://skaplan.io/schemas/v1/ForumPost.schema.json",
+  "title": "string trimmen",
+  "author": {
+    "name": "herkules",
+    "emailAddress": "msg@christo.ch"
+  },
+  "language": "de",
+  "date": "2004-11-30T11:17:00Z",
+  "summary": "Provides code for a trim() handler that removes leading and trailing characters from a string",
+  "keywords": [
+    "string",
+    "text",
+    "handler",
+    "applescript",
+    "function",
+    "trim",
+    "text manipulation",
+    "german",
+    "snippet",
+    "example",
+    "code"
+  ],
+  "targetURLs": [
+    {
+      "url": "http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=1225",
+      "title": "Fischer-Bayern.de :: Thema anzeigen - string trimmen",
+      "suggestedTitle": "Handler for Trimming Text (German)",
+      "summary": "Provides code for a trim() handler that removes leading and trailing characters from a string",
+      "contentLanguage": "de",
+      "isArchive": false,
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchivedAt",
+          "url": "https://web.archive.org/web/2/http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=1225"
+        },
+        {
+          "relationship": "isChildSiteOf",
+          "url": "./de.fischer-bayern.forum.json"
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/2/http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=1225",
+      "title": "Fischer-Bayern.de :: Thema anzeigen - string trimmen",
+      "suggestedTitle": "Handler for Trimming Text (German)",
+      "summary": "Provides code for a trim() handler that removes leading and trailing characters from a string (Archive)",
+      "contentLanguage": "de",
+      "isArchive": true,
+      "archiveDate": "2025-03-15",
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchiveOf",
+          "url": "http://www.fischer-bayern.de/phpBB2/viewtopic.php?t=1225"
+        },
+        {
+          "relationship": "isChildSiteOf",
+          "url": "./de.fischer-bayern.forum.json"
+        }
+      ]
+    }
+  ],
+  "additionalLinks": [
+    {
+      "url": "http://www.fischer-bayern.de/phpBB2/profile.php?mode=viewprofile&u=590",
+      "title": "Fischer-Bayern.de :: Profil anzeigen",
+      "suggestedTitle": "Profile of herkules",
+      "summary": "herkules' profile on fischer-bayern.de",
+      "contentLanguage": "de",
+      "isArchive": false,
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchivedAt",
+          "url": "https://web.archive.org/web/20210308055804/http://fischer-bayern.de/phpBB2/profile.php?mode=viewprofile&u=590"
+        },
+        {
+          "relationship": "isChildSiteOf",
+          "url": "./de.fischer-bayern.forum.json"
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20210308055804/http://fischer-bayern.de/phpBB2/profile.php?mode=viewprofile&u=590",
+      "title": "Fischer-Bayern.de :: Profil anzeigen",
+      "suggestedTitle": "Profile of herkules",
+      "summary": "herkules' profile on fischer-bayern.de (Archive)",
+      "contentLanguage": "de",
+      "isArchive": true,
+      "archiveDate": "2021-03-08",
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchiveOf",
+          "url": "http://www.fischer-bayern.de/phpBB2/profile.php?mode=viewprofile&u=590"
+        },
+        {
+          "relationship": "isChildSiteOf",
+          "url": "./de.fischer-bayern.forum.json"
+        }
+      ]
+    },
+    {
+      "url": "http://www.christo.ch/home/index.html",
+      "title": "www.christo.ch --> home",
+      "suggestedTitle": "Website of Christos (herkules)",
+      "summary": "Personal website with various links and information",
+      "contentLanguage": "de",
+      "isArchive": false,
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "offline",
+      "associatedURLs": [
+        {
+          "relationship": "isArchivedAt",
+          "url": "https://web.archive.org/web/20040804190633/http://www.christo.ch/home/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20040804190633/http://www.christo.ch/home/index.html",
+      "title": "www.christo.ch --> home",
+      "suggestedTitle": "Website of Christos (herkules)",
+      "summary": "Personal website with various links and information (Archive)",
+      "contentLanguage": "de",
+      "isArchive": true,
+      "archiveDate": "2004-08-04",
+      "lastCheckedDate": "2025-03-15",
+      "lastCheckedStatus": "online",
+      "associatedURLs": [
+        {
+          "relationship": "isArchiveOf",
+          "url": "http://www.christo.ch/home/index.html"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "recordAuthors": [
+      "SKaplanOfficial"
+    ],
+    "recordDate": "2025-03-15",
+    "lastUpdate": "2025-03-15"
+  }
+}

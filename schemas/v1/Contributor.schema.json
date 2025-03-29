@@ -1,0 +1,41 @@
+{
+  "id": "https://skaplan.io/schemas/v1/Contributor.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Application",
+  "description": "A person who assists in the creation of some project or resource.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "The contributor's name or pseudonym.",
+      "type": "string"
+    },
+    "handles": {
+      "description": "A list of the contributor's usernames and addresses on various platforms, such as their GitHub username, Twitter handle, and YouTube channel.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "emailAddress": {
+      "description": "The email address which the contributor uses to interact with others involved in the project.",
+      "type": "string",
+      "format": "email"
+    },
+    "role": {
+      "description": "The role the contributor played in the creation of the project or resource.",
+      "type": "string"
+    },
+    "links": {
+      "description": "Links to the contributor's personal website, social media profiles, or other relevant resources.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "$ref": "./URL.schema.json"
+      }
+    }
+  },
+  "required": [
+    "name"
+  ]
+}

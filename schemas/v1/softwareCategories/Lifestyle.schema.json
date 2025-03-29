@@ -1,0 +1,20 @@
+{
+  "id": "https://skaplan.io/schemas/v1/softwareCategories/Lifestyle.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Software Category: Lifestyle",
+  "description": "The category of software applications encompassing all apps that help users improve their lives, hobbies, and interests.",
+  "type": "string",
+  "enum": [
+    "Crafts",
+    "Dating",
+    "Fashion & Beauty",
+    "Gardening",
+    "Health & Fitness",
+    "Hobbies",
+    "Home Improvement",
+    "Parenting",
+    "Pets",
+    "Religion & Philosophy",
+    "Reading"
+  ]
+}

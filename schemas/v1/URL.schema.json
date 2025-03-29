@@ -1,0 +1,293 @@
+{
+  "id": "https://skaplan.io/schemas/v1/URL.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Uniform Resource Locator",
+  "description": "A web address to some resource.",
+  "type": "object",
+  "properties": {
+    "title": {
+      "description": "The official title of the resource, such as the headline of an article, the name of the browser tab containing the resource, the name of a podcast episode, etc. If the resource does not have a title, leave this field blank.",
+      "type": "string"
+    },
+    "suggestedTitle": {
+      "description": "A suggested title for the resource, in case no official title is available or the official title is not descriptive enough.",
+      "type": "string"
+    },
+    "url": {
+      "description": "The URL of the resource.",
+      "type": "string",
+      "format": "uri"
+    },
+    "icon": {
+      "description": "The location of an icon representing the resource. This can be a URL to an image file, a data URI, or a file path.",
+      "type": "string",
+      "format": "uri-reference"
+    },
+    "mimeType": {
+      "description": "The MIME type of the resource.",
+      "type": "string",
+      "pattern": "^[a-z]+/[a-z0-9-]+$"
+    },
+    "uti": {
+      "description": "The Uniform Type Identifier of the resource.",
+      "type": "string",
+      "pattern": "^([a-zA-Z]+)\\.([a-zA-Z0-9-]+\\.)*([a-zA-Z0-9-]+)$"
+    },
+    "contentTypes": {
+      "description": "The high-level types of content the resource contains. List all that apply. For example, a blog post descibing how to solve a programming problem might have the content types 'blog post', 'tutorial', and 'source code'.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "anyOf": [
+          {
+            "enum": [
+              "advertisement",
+              "blogPost",
+              "book",
+              "changelog",
+              "chatMessage",
+              "conferenceTalk",
+              "course",
+              "directory",
+              "documentation",
+              "download",
+              "email",
+              "example",
+              "forumPost",
+              "forumThread",
+              "forum",
+              "homepage",
+              "interview",
+              "lecture",
+              "list",
+              "newsArticle",
+              "overview",
+              "podcastEpisode",
+              "presentation",
+              "productPage",
+              "storeListing",
+              "supportPage",
+              "researchPaper",
+              "review",
+              "socialMediaPost",
+              "sourceCode",
+              "tutorial",
+              "webArchive",
+              "wikiArticle",
+              "wiki"
+            ]
+          },
+          {
+            "type": "string",
+            "description": "A custom content type."
+          }
+        ]
+      }
+    },
+    "contentLanguage": {
+      "description": "The language the content of the resource is written in.",
+      "type": "string"
+    },
+    "summary": {
+      "description": "A brief description of the resource.",
+      "type": "string",
+      "maxLength": 180
+    },
+    "previousURLs": {
+      "description": "A list of previous URLs that have been used to access the resource. Use this to track URL changes, such as when an article moves to a new subdirectory or a website changes its domain name.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "associatedURLs": {
+      "description": "A list of URLs that are associated with the resource. This could include URLs to the same resource on different platforms, URLs to related resources, or URLs to archives of the resource.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "description": "The associated URL. This can be a full URL to a web resource or a relative path to a resource with a valid value for the 'primaryURLs' field.",
+            "type": "string",
+            "format": "iri-reference"
+          },
+          "relationship": {
+            "description": "A brief description of the relationship between the resource and the associated URL.",
+            "type": "string",
+            "anyOf": [
+              {
+                "enum": [
+                  "isArchiveOf",
+                  "isArchivedAt",
+                  "isOriginalURLOf",
+                  "isRedirectedTo",
+                  "isRedirectedFrom",
+                  "isMirrorOf",
+                  "isParentSiteOf",
+                  "isChildSiteOf",
+                  "isSummaryOf",
+                  "isSummarizedBy",
+                  "hasSimilarContentTo"
+                ]
+              },
+              {
+                "const": "isArchiveOf",
+                "description": "Indicates that this URL is an archived version of the associated URL. Required when `isArchive` is true."
+              },
+              {
+                "const": "isArchivedAt",
+                "description": "Indicates that the associated URL is an archive of this URL."
+              },
+              {
+                "const": "isOriginalURLOf",
+                "description": "Indicates that this URL is the original URL of the associated URL."
+              },
+              {
+                "const": "isRedirectedTo",
+                "description": "Indicates that this URL redirects to the associated URL."
+              },
+              {
+                "const": "isRedirectedFrom",
+                "description": "Indicates that the associated URL redirects to this URL."
+              },
+              {
+                "const": "isMirrorOf",
+                "description": "Indicates that this URL is a mirror of the associated URL."
+              },
+              {
+                "const": "isParentSiteOf",
+                "description": "Indicates that this URL is the parent site of the associated URL. For example, a blogger's homepage URL is generally the parent site of their blog posts."
+              },
+              {
+                "const": "isChildSiteOf",
+                "description": "Indicates that this URL is a child site of the associated URL. For example, a blog post is generally a child site of a blogger's homepage URL."
+              },
+              {
+                "const": "isSummaryOf",
+                "description": "Indicates that the content of this URL summarizes the content of the associated URL."
+              },
+              {
+                "const": "isSummarizedBy",
+                "description": "Indicates that the content of this URL is summarized by the content of the associated URL."
+              },
+              {
+                "const": "hasSimilarContentTo",
+                "description": "Indicates that this URL has similar content to the associated URL."
+              },
+              {
+                "type": "string",
+                "description": "Defines a custom relationship between this URL and the associated URL.",
+                "pattern": "^is([A-Z][a-z]+)+(Of|By|To|From|For|With|At|In|On)$"
+              }
+            ]
+          }
+        },
+        "required": [
+          "url",
+          "relationship"
+        ]
+      }
+    },
+    "isArchive": {
+      "description": "Whether the URL is an archive of a resource that is no longer available online. If the URL is an archive, add the original URL to the 'associatedURLs' field.",
+      "type": "boolean",
+      "default": false
+    },
+    "archiveDate": {
+      "description": "The date the URL was archived. Leave blank if the URL is not an archive.",
+      "type": "string",
+      "format": "date"
+    },
+    "lastCheckedDate": {
+      "description": "The date the URL was last checked for availability.",
+      "type": "string",
+      "format": "date"
+    },
+    "lastCheckedStatus": {
+      "description": "The status of the last check of the URL.",
+      "oneOf": [
+        {
+          "const": "online",
+          "description": "The URL is online and the content is available."
+        },
+        {
+          "const": "offline",
+          "description": "The URL is entirely offline, and the content is unavailable elsewhere on the web outside of archives."
+        },
+        {
+          "const": "contentUnavailable",
+          "description": "The URL is online, but the content is unavailable (e.g., a blank page)."
+        },
+        {
+          "const": "contentPaywalled",
+          "description": "The URL is online, but the content is behind a paywall."
+        },
+        {
+          "const": "contentChanged",
+          "description": "The URL is online, but the content has changed and is no longer relevant to the resource."
+        },
+        {
+          "const": "moved",
+          "description": "The URL has moved to a new location, and the same content is available at the new URL."
+        },
+        {
+          "const": "error",
+          "description": "An error occurred while checking the URL."
+        }
+      ]
+    },
+    "metadata": {
+      "description": "Metadata about this data entry.",
+      "type": "object",
+      "$ref": "./RecordMetadata.schema.json"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "isArchive": {
+            "const": true
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "associatedURLs": {
+            "contains": {
+              "properties": {
+                "relationship": {
+                  "const": "isArchiveOf"
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "archiveDate",
+          "associatedURLs"
+        ]
+      }
+    },
+    {
+      "if": {
+        "required": [
+          "lastCheckedDate"
+        ]
+      },
+      "then": {
+        "required": [
+          "lastCheckedStatus"
+        ]
+      }
+    }
+  ],
+  "additionalProperties": false,
+  "required": [
+    "url"
+  ]
+}

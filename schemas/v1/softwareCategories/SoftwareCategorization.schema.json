@@ -1,0 +1,144 @@
+{
+  "id": "https://skaplan.io/schemas/v1/softwareCategories/SoftwaeCategorization.schema.json",
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Software Categorization",
+  "description": "A category, subcategory, and topic triple that describes a software application.",
+  "type": "object",
+  "properties": {
+    "category": {
+      "description": "A high-level category of software applications that describes a key function or purpose of the software.",
+      "type": "string",
+      "enum": [
+        "Accessibility",
+        "Automation",
+        "Business",
+        "Communication",
+        "Developer Tools",
+        "Education",
+        "Finance",
+        "Food & Drink",
+        "Games",
+        "Graphics & Design",
+        "Lifestyle",
+        "Medical",
+        "Music",
+        "News",
+        "Photo & Video",
+        "Productivity",
+        "Reference",
+        "Security",
+        "Shopping",
+        "Social Networking",
+        "Sports",
+        "Travel",
+        "Utilities",
+        "Weather"
+      ]
+    },
+    "subcategory": {
+      "description": "A subcategory of software applications that describes a more specific function or purpose of the software."
+    },
+    "topic": {
+      "description": "A topic that describes a key feature or use case of the software application."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "Automation"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "type": "string",
+            "enum": [
+              "Home Automation",
+              "Automated Testing",
+              "Task Automation",
+              "Workflow Automation"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "subcategory": {
+            "const": "Home Automation"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "topic": {
+            "type": "string",
+            "enum": [
+              "Smart Home Control",
+              "Home System Status",
+              "IoT Appliances",
+              "IoT Lighting",
+              "IoT Security Devices",
+              "Smart Sensors"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "subcategory": {
+            "const": "Home Automation"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "topic": {
+            "type": "string",
+            "enum": [
+              "Smart Home Control",
+              "Home System Status",
+              "IoT Appliances",
+              "IoT Lighting",
+              "IoT Security Devices",
+              "Smart Sensors"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "Education"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "type": "string",
+            "enum": [
+              "Classroom Management",
+              "Conferences & Events",
+              "Courses & Tutorials",
+              "Educational Games",
+              "Exams & Exam Prepation",
+              "Learning Management Systems",
+              "Paper Writing",
+              "Self-Study Tools",
+              "Textbooks"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
